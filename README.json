@@ -1,0 +1,1121 @@
+{
+  "items": [
+    {
+      "description": "Please take a quick gander at the contribution guidelines first.\nThanks to all contributors; you rock!",
+      "items": [],
+      "title": "Contributing"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "AXE-CLI",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2021-02-22T10:51:32Z",
+            "owner": "dequelabs",
+            "repo": "axe-cli",
+            "stars": 435
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Lumberjack",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-03-03T12:48:37Z",
+            "owner": "JakePartusch",
+            "repo": "lumberjack",
+            "stars": 126
+          }
+        }
+      ],
+      "title": "Accessibility"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Hoppscotch",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-05T13:13:45Z",
+            "owner": "hoppscotch",
+            "repo": "hoppscotch",
+            "stars": 80021
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "widdershins",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-06-04T23:50:09Z",
+            "owner": "Mermade",
+            "repo": "widdershins",
+            "stars": 1581
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenAPI 3 CLI",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T14:57:43Z",
+            "owner": "Redocly",
+            "repo": "redocly-cli",
+            "stars": 1501
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Speccy",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-12-30T17:22:48Z",
+            "owner": "wework",
+            "repo": "speccy",
+            "stars": 840
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "swaggerui",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2024-04-19T14:00:47Z",
+            "owner": "flowchartsman",
+            "repo": "swaggerui",
+            "stars": 91
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Redoc-Editor",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-01-04T05:14:23Z",
+            "owner": "pointnet",
+            "repo": "redoc-editor",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "json-schema-sensitivity-checker",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-11-17T13:21:06Z",
+            "owner": "cbetta",
+            "repo": "json-schema-sensitivity-checker",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "API"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Mark Text",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-27T03:16:54Z",
+            "owner": "marktext",
+            "repo": "marktext",
+            "stars": 60000
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Lapce",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-07-15T11:27:37Z",
+            "owner": "lapce",
+            "repo": "lapce",
+            "stars": 38735
+          }
+        }
+      ],
+      "title": "Editor"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Papercups",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Elixir",
+            "last_commit": "2024-02-15T05:21:47Z",
+            "owner": "papercups-io",
+            "repo": "papercups",
+            "stars": 6100
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "notabene",
+          "description": "Renders a repo's Markdown/MDX as a navigable site with anchored, Google-Docs-style comments; an agent applies them as source edits and journals the changes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T19:21:04Z",
+            "owner": "z29k",
+            "repo": "notabene",
+            "stars": 4
+          }
+        }
+      ],
+      "title": "Feedback"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Lighthouse CI Action",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-03-12T09:26:09Z",
+            "owner": "treosh",
+            "repo": "lighthouse-ci-action",
+            "stars": 1288
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TODO to Issue Action",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-06T11:13:17Z",
+            "owner": "alstr",
+            "repo": "todo-to-issue-action",
+            "stars": 800
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Vale",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-03T20:00:58Z",
+            "owner": "vale-cli",
+            "repo": "vale-action",
+            "stars": 248
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TOC Generator",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-05-09T04:00:33Z",
+            "owner": "technote-space",
+            "repo": "toc-generator",
+            "stars": 247
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Alex Action",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dockerfile",
+            "last_commit": "2019-11-03T18:22:41Z",
+            "owner": "theashraf",
+            "repo": "alex-action",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pushpen",
+          "description": "Generates and updates README, changelog, API docs, and onboarding guides from a repository's actual code and commit history on every push, opened as a pull request.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-29T09:40:59Z",
+            "owner": "David19876543210",
+            "repo": "pushpen-action",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "constitution-lint-action",
+          "description": "Lints a CLAUDE.md-style AI agent constitution file for structural completeness (mission statement, hard rules, escalation procedures, spending limits).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-30T22:06:37Z",
+            "owner": "joeyycli",
+            "repo": "constitution-lint-action",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DocPulse",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-14T13:04:06Z",
+            "owner": "YoniRaviv",
+            "repo": "DocPulse",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "readme-ci",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-29T17:46:32Z",
+            "owner": "ondraulehla",
+            "repo": "readme-ci",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DOCtor-RST",
+          "description": null,
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "Run misspell with reviewdog",
+          "description": null,
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "Spellcheck Action",
+          "description": null,
+          "children": []
+        }
+      ],
+      "title": "GitHub Actions"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Alex",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-11-27T17:45:46Z",
+            "owner": "get-alex",
+            "repo": "alex",
+            "stars": 5097
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lychee",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-11T09:37:22Z",
+            "owner": "lycheeverse",
+            "repo": "lychee",
+            "stars": 3833
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "case-police",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-04-15T01:48:52Z",
+            "owner": "antfu",
+            "repo": "case-police",
+            "stars": 1427
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "brok",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Haskell",
+            "last_commit": "2023-03-06T10:48:55Z",
+            "owner": "smallhadroncollider",
+            "repo": "brok",
+            "stars": 423
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HtmlTest",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2025-01-20T23:29:27Z",
+            "owner": "wjdp",
+            "repo": "htmltest",
+            "stars": 378
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Doc Detective",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-11T20:03:51Z",
+            "owner": "doc-detective",
+            "repo": "doc-detective",
+            "stars": 128
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Linkspector",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-12T00:53:03Z",
+            "owner": "UmbrellaDocs",
+            "repo": "linkspector",
+            "stars": 93
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "InnovationEngine",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-07-02T21:53:53Z",
+            "owner": "Azure",
+            "repo": "InnovationEngine",
+            "stars": 40
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Rules example",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-04-28T11:42:08Z",
+            "owner": "cisco-open",
+            "repo": "inclusive-language",
+            "stars": 24
+          }
+        }
+      ],
+      "title": "Quality Assurance"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Kap",
+          "description": "(macOS)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-11-12T15:32:40Z",
+            "owner": "wulkano",
+            "repo": "Kap",
+            "stars": 19317
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Screenity",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-07T16:11:40Z",
+            "owner": "alyssaxuu",
+            "repo": "screenity",
+            "stars": 18480
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Terminalizer",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-08-29T00:40:13Z",
+            "owner": "faressoft",
+            "repo": "terminalizer",
+            "stars": 16146
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Peek",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Vala",
+            "last_commit": "2025-09-24T14:09:08Z",
+            "owner": "phw",
+            "repo": "peek",
+            "stars": 10560
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Editly",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-05-12T07:03:44Z",
+            "owner": "mifi",
+            "repo": "editly",
+            "stars": 5471
+          }
+        }
+      ],
+      "title": "Screencast"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Flameshot",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-12T20:43:19Z",
+            "owner": "flameshot-org",
+            "repo": "flameshot",
+            "stars": 30614
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "shot-scraper",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-12T23:46:52Z",
+            "owner": "simonw",
+            "repo": "shot-scraper",
+            "stars": 2543
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Heroshot",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-06-28T20:59:04Z",
+            "owner": "omachala",
+            "repo": "heroshot",
+            "stars": 70
+          }
+        }
+      ],
+      "title": "Screenshot"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "mdBook",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-03T16:57:52Z",
+            "owner": "rust-lang",
+            "repo": "mdBook",
+            "stars": 22070
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Nextra",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-31T20:39:04Z",
+            "owner": "shuding",
+            "repo": "nextra",
+            "stars": 13900
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Quartz",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T12:28:56Z",
+            "owner": "jackyzha0",
+            "repo": "quartz",
+            "stars": 13000
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Log4brains",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-12-17T16:51:30Z",
+            "owner": "thomvaill",
+            "repo": "log4brains",
+            "stars": 1558
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VuePress",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-05T10:19:04Z",
+            "owner": "wevm",
+            "repo": "vocs",
+            "stars": 1535
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Portray",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-09-19T11:00:56Z",
+            "owner": "timothycrosley",
+            "repo": "portray",
+            "stars": 866
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RcPress",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-01-22T08:05:32Z",
+            "owner": "YvesCoding",
+            "repo": "rcpress",
+            "stars": 192
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Docsite",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-07-03T18:38:02Z",
+            "owner": "sourcegraph",
+            "repo": "docsite",
+            "stars": 71
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bengal",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-24T02:43:46Z",
+            "owner": "lbliii",
+            "repo": "bengal",
+            "stars": 42
+          }
+        }
+      ],
+      "title": "Site Generators"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "consoletest",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2024-08-25T15:27:27Z",
+            "owner": "intel",
+            "repo": "dffml",
+            "stars": 257
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sphinx Substitution Extensions",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T00:13:40Z",
+            "owner": "adamtheturtle",
+            "repo": "sphinx-substitution-extensions",
+            "stars": 41
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Contentui",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-02-07T07:51:19Z",
+            "owner": "ulrobix",
+            "repo": "sphinxcontrib-contentui",
+            "stars": 13
+          }
+        }
+      ],
+      "title": "Sphinx Extensions"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T07:10:49Z",
+            "owner": "github",
+            "repo": "docs",
+            "stars": 20659
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Aiven",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "PLpgSQL",
+            "last_commit": "2024-01-29T13:45:27Z",
+            "owner": "aiven",
+            "repo": "devportal",
+            "stars": 59
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Developer Style Guide",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-12-30T21:56:24Z",
+            "owner": "lornajane",
+            "repo": "developer-style-guide",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Rackspace",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "HTML",
+            "last_commit": "2024-07-03T21:37:47Z",
+            "owner": "rackerlabs",
+            "repo": "docs-style-guide",
+            "stars": 9
+          }
+        }
+      ],
+      "title": "Style Guides"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Playwright",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T03:33:32Z",
+            "owner": "microsoft",
+            "repo": "playwright",
+            "stars": 94455
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Design Tools",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-07-28T19:57:31Z",
+            "owner": "goabstract",
+            "repo": "Awesome-Design-Tools",
+            "stars": 40863
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Driver.js",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-18T16:01:07Z",
+            "owner": "nilbuild",
+            "repo": "driver.js",
+            "stars": 26583
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Shepherd",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-13T07:26:29Z",
+            "owner": "shipshapecode",
+            "repo": "shepherd",
+            "stars": 13779
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "adr-tools",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2024-04-25T18:22:02Z",
+            "owner": "npryce",
+            "repo": "adr-tools",
+            "stars": 5609
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "docToolchain",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Groovy",
+            "last_commit": "2026-08-10T16:33:12Z",
+            "owner": "docToolchain",
+            "repo": "docToolchain",
+            "stars": 857
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CodeAlmanac",
+          "description": "Self-updating repository wiki for AI coding agents that tracks project conversations and context locally in the repo.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-25T00:00:46Z",
+            "owner": "AlmanacCode",
+            "repo": "codealmanac",
+            "stars": 794
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rstcheck",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T21:50:09Z",
+            "owner": "rstcheck",
+            "repo": "rstcheck",
+            "stars": 256
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tools for Technical Writers",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-02-26T19:30:52Z",
+            "owner": "alexandrascript",
+            "repo": "tech-writing-tools",
+            "stars": 236
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "markdown-doctest",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2020-10-07T04:06:36Z",
+            "owner": "Widdershin",
+            "repo": "markdown-doctest",
+            "stars": 169
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pocket Marketing List",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-09-16T13:06:30Z",
+            "owner": "rubymorillo",
+            "repo": "pocket-marketing-tech-list",
+            "stars": 164
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "fixred",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2022-06-07T04:10:37Z",
+            "owner": "rhysd",
+            "repo": "fixred",
+            "stars": 37
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gatsby-theme-adr",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-04-11T05:46:21Z",
+            "owner": "Lullabot",
+            "repo": "gatsby-theme-adr",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PitchDocs",
+          "description": "AI-powered documentation generator that scans codebases and produces marketing-ready READMEs, changelogs, and AI context files with quality scoring.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-05-08T08:33:15Z",
+            "owner": "littlebearapps",
+            "repo": "pitchdocs",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Browser SOP Builder",
+          "description": "Local-first browser tool for drafting controlled procedures and exporting Markdown without accounts or server storage.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-07-15T21:45:28Z",
+            "owner": "max-agent-hub",
+            "repo": "browser-sop-builder",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Tool Collection"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Glow - Render Markdown on the CLI",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-12T20:56:16Z",
+            "owner": "charmbracelet",
+            "repo": "glow",
+            "stars": 26852
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mdv",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-08-06T00:49:17Z",
+            "owner": "xrfang",
+            "repo": "mdv",
+            "stars": 19
+          }
+        }
+      ],
+      "title": "Viewer"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T08:07:17.740Z",
+    "original_repository": "testthedocs/awesome-docs",
+    "original_repository_sha": "5f72293f4384bd75b96f6b531e87cfcc57a3d7cf",
+    "enhanced_repository": "enhansome/enhansome-docs",
+    "enhanced_repository_description": null,
+    "title": "Awesome Docs with stars"
+  }
+}
