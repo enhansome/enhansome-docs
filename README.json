@@ -48,10 +48,10 @@
             "archived": false,
             "id": 203587744,
             "language": "TypeScript",
-            "last_commit": "2026-08-16T19:17:55Z",
+            "last_commit": "2026-08-20T07:10:27Z",
             "owner": "hoppscotch",
             "repo": "hoppscotch",
-            "stars": 80056
+            "stars": 80057
           }
         },
         {
@@ -78,10 +78,10 @@
             "archived": false,
             "id": 207588519,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T12:23:33Z",
+            "last_commit": "2026-08-19T18:21:42Z",
             "owner": "Redocly",
             "repo": "redocly-cli",
-            "stars": 1502
+            "stars": 1503
           }
         },
         {
@@ -162,7 +162,7 @@
             "last_commit": "2026-07-27T03:16:54Z",
             "owner": "marktext",
             "repo": "marktext",
-            "stars": 60296
+            "stars": 60334
           }
         },
         {
@@ -177,7 +177,7 @@
             "last_commit": "2026-07-15T11:27:37Z",
             "owner": "lapce",
             "repo": "lapce",
-            "stars": 38746
+            "stars": 38752
           }
         }
       ],
@@ -264,7 +264,7 @@
             "last_commit": "2026-08-03T20:00:58Z",
             "owner": "vale-cli",
             "repo": "vale-action",
-            "stars": 248
+            "stars": 249
           }
         },
         {
@@ -375,7 +375,7 @@
             "last_commit": "2024-11-27T17:45:46Z",
             "owner": "get-alex",
             "repo": "alex",
-            "stars": 5098
+            "stars": 5099
           }
         },
         {
@@ -405,7 +405,7 @@
             "last_commit": "2026-04-15T01:48:52Z",
             "owner": "antfu",
             "repo": "case-police",
-            "stars": 1427
+            "stars": 1428
           }
         },
         {
@@ -516,7 +516,7 @@
             "last_commit": "2024-11-12T15:32:40Z",
             "owner": "wulkano",
             "repo": "Kap",
-            "stars": 19331
+            "stars": 19332
           }
         },
         {
@@ -531,7 +531,7 @@
             "last_commit": "2026-08-18T17:39:05Z",
             "owner": "alyssaxuu",
             "repo": "screenity",
-            "stars": 18487
+            "stars": 18488
           }
         },
         {
@@ -576,7 +576,7 @@
             "last_commit": "2025-05-12T07:03:44Z",
             "owner": "mifi",
             "repo": "editly",
-            "stars": 5471
+            "stars": 5472
           }
         }
       ],
@@ -597,7 +597,7 @@
             "last_commit": "2026-08-18T20:50:55Z",
             "owner": "flameshot-org",
             "repo": "flameshot",
-            "stars": 30641
+            "stars": 30648
           }
         },
         {
@@ -648,7 +648,7 @@
             "last_commit": "2026-08-19T09:53:48Z",
             "owner": "rust-lang",
             "repo": "mdBook",
-            "stars": 22081
+            "stars": 22080
           }
         },
         {
@@ -663,7 +663,7 @@
             "last_commit": "2026-07-31T20:39:04Z",
             "owner": "shuding",
             "repo": "nextra",
-            "stars": 13904
+            "stars": 13905
           }
         },
         {
@@ -678,7 +678,7 @@
             "last_commit": "2026-08-18T23:21:30Z",
             "owner": "jackyzha0",
             "repo": "quartz",
-            "stars": 13038
+            "stars": 13041
           }
         },
         {
@@ -838,10 +838,10 @@
             "archived": false,
             "id": 189621607,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T07:27:37Z",
+            "last_commit": "2026-08-19T23:33:01Z",
             "owner": "github",
             "repo": "docs",
-            "stars": 20694
+            "stars": 20697
           }
         },
         {
@@ -904,10 +904,10 @@
             "archived": false,
             "id": 221981891,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T06:44:48Z",
+            "last_commit": "2026-08-20T06:52:56Z",
             "owner": "microsoft",
             "repo": "playwright",
-            "stars": 94729
+            "stars": 94783
           }
         },
         {
@@ -922,7 +922,7 @@
             "last_commit": "2024-07-28T19:57:31Z",
             "owner": "goabstract",
             "repo": "Awesome-Design-Tools",
-            "stars": 40925
+            "stars": 40931
           }
         },
         {
@@ -937,7 +937,7 @@
             "last_commit": "2026-07-18T16:01:07Z",
             "owner": "nilbuild",
             "repo": "driver.js",
-            "stars": 26602
+            "stars": 26606
           }
         },
         {
@@ -949,10 +949,10 @@
             "archived": false,
             "id": 15246993,
             "language": "JavaScript",
-            "last_commit": "2026-08-17T13:50:10Z",
+            "last_commit": "2026-08-19T17:20:05Z",
             "owner": "shipshapecode",
             "repo": "shepherd",
-            "stars": 13781
+            "stars": 13787
           }
         },
         {
@@ -967,7 +967,7 @@
             "last_commit": "2024-04-25T18:22:02Z",
             "owner": "npryce",
             "repo": "adr-tools",
-            "stars": 5616
+            "stars": 5617
           }
         },
         {
@@ -1042,7 +1042,7 @@
             "last_commit": "2020-10-07T04:06:36Z",
             "owner": "Widdershin",
             "repo": "markdown-doctest",
-            "stars": 170
+            "stars": 171
           }
         },
         {
@@ -1138,7 +1138,7 @@
             "last_commit": "2026-08-16T00:02:03Z",
             "owner": "charmbracelet",
             "repo": "glow",
-            "stars": 26949
+            "stars": 26961
           }
         },
         {
@@ -1161,7 +1161,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:24:17.816Z",
+    "last_updated": "2026-08-20T07:29:30.260Z",
     "original_repository": "testthedocs/awesome-docs",
     "original_repository_id": 191968647,
     "original_repository_sha": "5f72293f4384bd75b96f6b531e87cfcc57a3d7cf",
