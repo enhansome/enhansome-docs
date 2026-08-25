@@ -62,9 +62,9 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 
 ## API
 
-* [Hoppscotch](https://github.com/hoppscotch/hoppscotch) ⭐ 80,093 | 🐛 802 | 🌐 TypeScript | 📅 2026-08-24
+* [Hoppscotch](https://github.com/hoppscotch/hoppscotch) ⭐ 80,094 | 🐛 802 | 🌐 TypeScript | 📅 2026-08-24
 * [widdershins](https://github.com/Mermade/widdershins) ⭐ 1,580 | 🐛 89 | 🌐 JavaScript | 📅 2024-06-04
-* [OpenAPI 3 CLI](https://github.com/Redocly/openapi-cli) ⭐ 1,504 | 🐛 162 | 🌐 TypeScript | 📅 2026-08-24
+* [OpenAPI 3 CLI](https://github.com/Redocly/openapi-cli) ⭐ 1,504 | 🐛 161 | 🌐 TypeScript | 📅 2026-08-25
 * [Speccy](https://github.com/wework/speccy) ⭐ 840 | 🐛 83 | 🌐 JavaScript | 📅 2022-12-30
 * [swaggerui](https://github.com/flowchartsman/swaggerui) ⭐ 91 | 🐛 6 | 🌐 Go | 📅 2024-04-19
 * [Redoc-Editor](https://github.com/pointnet/redoc-editor) ⭐ 14 | 🐛 24 | 🌐 JavaScript | 📅 2023-01-04
@@ -102,8 +102,8 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 
 ## Editor
 
-* [Mark Text](https://github.com/marktext/marktext) ⭐ 60,547 | 🐛 709 | 🌐 TypeScript | 📅 2026-07-27
-* [Lapce](https://github.com/lapce/lapce) ⭐ 38,767 | 🐛 898 | 🌐 Rust | 📅 2026-07-15
+* [Mark Text](https://github.com/marktext/marktext) ⭐ 60,551 | 🐛 709 | 🌐 TypeScript | 📅 2026-07-27
+* [Lapce](https://github.com/lapce/lapce) ⭐ 38,768 | 🐛 898 | 🌐 Rust | 📅 2026-07-15
 * [DraftView Edit](https://www.draftview.app/edit) - Paste a GitHub or GitLab file URL to edit it in DraftView and submit it back as a pull request or merge request.
 * [HackMD](https://hackmd.io/)
 * [Swimm](https://swimm.io/)
@@ -225,7 +225,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 
 ## Screenshot
 
-* [Flameshot](https://github.com/lupoDharkael/flameshot) ⭐ 30,687 | 🐛 717 | 🌐 C++ | 📅 2026-08-22
+* [Flameshot](https://github.com/lupoDharkael/flameshot) ⭐ 30,687 | 🐛 716 | 🌐 C++ | 📅 2026-08-25
 * [shot-scraper](https://github.com/simonw/shot-scraper) ⭐ 2,553 | 🐛 59 | 🌐 Python | 📅 2026-07-12
 * [Heroshot](https://github.com/omachala/heroshot) ⭐ 72 | 🐛 4 | 🌐 TypeScript | 📅 2026-06-28
 * [Carbon](https://carbon.now.sh)
@@ -345,7 +345,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 
 ## Tool Collection
 
-* [Playwright](https://github.com/microsoft/playwright) ⭐ 95,082 | 🐛 169 | 🌐 TypeScript | 📅 2026-08-25
+* [Playwright](https://github.com/microsoft/playwright) ⭐ 95,083 | 🐛 170 | 🌐 TypeScript | 📅 2026-08-25
 * [Awesome Design Tools](https://github.com/goabstract/Awesome-Design-Tools) ⭐ 40,992 | 🐛 190 | 🌐 JavaScript | 📅 2024-07-28
 * [Driver.js](https://github.com/kamranahmedse/driver.js) ⭐ 26,628 | 🐛 22 | 🌐 TypeScript | 📅 2026-07-18
 * [Shepherd](https://github.com/shipshapecode/shepherd) ⭐ 13,793 | 🐛 30 | 🌐 JavaScript | 📅 2026-08-25
@@ -391,7 +391,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 
 ## Viewer
 
-* [Glow - Render Markdown on the CLI](https://github.com/charmbracelet/glow) ⭐ 27,028 | 🐛 222 | 🌐 Go | 📅 2026-08-16
+* [Glow - Render Markdown on the CLI](https://github.com/charmbracelet/glow) ⭐ 27,029 | 🐛 222 | 🌐 Go | 📅 2026-08-16
 * [mdv](https://github.com/xrfang/mdv/) ⭐ 20 | 🐛 5 | 🌐 JavaScript | 📅 2025-08-06
 * [MacMD Viewer](https://macmdviewer.com) - Native macOS Markdown viewer with Mermaid diagram support, QuickLook extension, and syntax highlighting for 190+ languages.
 
