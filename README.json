@@ -281,7 +281,7 @@
             "open_issues": 727,
             "owner": "marktext",
             "repo": "marktext",
-            "stars": 60714,
+            "stars": 60729,
             "topics": [
               "dark-mode",
               "editor",
@@ -317,7 +317,7 @@
             "open_issues": 897,
             "owner": "lapce",
             "repo": "lapce",
-            "stars": 38784,
+            "stars": 38785,
             "topics": [
               "code-editor",
               "developer-tools",
@@ -680,7 +680,7 @@
             "id": 1285643256,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-29T03:41:17Z",
+            "last_commit": "2026-08-29T05:10:14Z",
             "open_issues": 2,
             "owner": "plasma-ai",
             "repo": "wiki",
@@ -747,7 +747,7 @@
             "open_issues": 28,
             "owner": "get-alex",
             "repo": "alex",
-            "stars": 5100,
+            "stars": 5099,
             "topics": [
               "alex",
               "hacktoberfest2018",
@@ -773,7 +773,7 @@
             "open_issues": 75,
             "owner": "lycheeverse",
             "repo": "lychee",
-            "stars": 3871,
+            "stars": 3872,
             "topics": [
               "broken-links",
               "check",
@@ -981,7 +981,7 @@
             "open_issues": 254,
             "owner": "wulkano",
             "repo": "Kap",
-            "stars": 19341,
+            "stars": 19340,
             "topics": [
               "aperture",
               "app",
@@ -1057,7 +1057,7 @@
             "open_issues": 108,
             "owner": "faressoft",
             "repo": "terminalizer",
-            "stars": 16158,
+            "stars": 16159,
             "topics": [
               "animated",
               "bash",
@@ -1172,7 +1172,7 @@
             "open_issues": 716,
             "owner": "flameshot-org",
             "repo": "flameshot",
-            "stars": 30709,
+            "stars": 30708,
             "topics": [
               "capture",
               "cross-platform",
@@ -1230,7 +1230,7 @@
             "open_issues": 4,
             "owner": "omachala",
             "repo": "heroshot",
-            "stars": 72,
+            "stars": 73,
             "topics": [
               "automation",
               "cli",
@@ -1287,10 +1287,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-07-31T20:39:04Z",
-            "open_issues": 340,
+            "open_issues": 341,
             "owner": "shuding",
             "repo": "nextra",
-            "stars": 13912,
+            "stars": 13913,
             "topics": [
               "markdown",
               "mdx",
@@ -1318,7 +1318,7 @@
             "open_issues": 66,
             "owner": "jackyzha0",
             "repo": "quartz",
-            "stars": 13124,
+            "stars": 13129,
             "topics": [
               "digital-garden",
               "networked-thought",
@@ -1602,7 +1602,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-08-28T11:28:51Z",
-                "open_issues": 0,
+                "open_issues": 1,
                 "owner": "adamtheturtle",
                 "repo": "sphinx-substitution-extensions",
                 "stars": 41,
@@ -1696,10 +1696,10 @@
             "language": "TypeScript",
             "license": "CC-BY-4.0",
             "last_commit": "2026-08-28T23:25:44Z",
-            "open_issues": 98,
+            "open_issues": 103,
             "owner": "github",
             "repo": "docs",
-            "stars": 20751,
+            "stars": 20753,
             "topics": [
               "docs",
               "works-with-codespaces"
@@ -1798,10 +1798,10 @@
             "language": "TypeScript",
             "license": "Apache-2.0",
             "last_commit": "2026-08-29T01:43:34Z",
-            "open_issues": 167,
+            "open_issues": 169,
             "owner": "microsoft",
             "repo": "playwright",
-            "stars": 95316,
+            "stars": 95326,
             "topics": [
               "automation",
               "chrome",
@@ -1868,7 +1868,7 @@
             "open_issues": 22,
             "owner": "nilbuild",
             "repo": "driver.js",
-            "stars": 26649,
+            "stars": 26648,
             "topics": [
               "feature-introductions",
               "overlay",
@@ -1951,7 +1951,7 @@
             "open_issues": 52,
             "owner": "AlmanacCode",
             "repo": "codealmanac",
-            "stars": 1009,
+            "stars": 1010,
             "topics": [
               "ai",
               "claude",
@@ -2250,7 +2250,7 @@
             "open_issues": 225,
             "owner": "charmbracelet",
             "repo": "glow",
-            "stars": 27104,
+            "stars": 27109,
             "topics": [
               "cli",
               "excitement",
@@ -2286,7 +2286,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:37:31.317Z",
+    "last_updated": "2026-08-29T12:50:42.575Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome documentation tools",
