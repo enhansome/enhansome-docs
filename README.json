@@ -73,10 +73,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-08-28T14:30:09Z",
-            "open_issues": 804,
+            "open_issues": 806,
             "owner": "hoppscotch",
             "repo": "hoppscotch",
-            "stars": 80113,
+            "stars": 80116,
             "topics": [
               "api",
               "api-client",
@@ -146,7 +146,7 @@
             "open_issues": 159,
             "owner": "Redocly",
             "repo": "redocly-cli",
-            "stars": 1506,
+            "stars": 1507,
             "topics": [
               "api-governance",
               "arazzo",
@@ -278,10 +278,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-07-27T03:16:54Z",
-            "open_issues": 727,
+            "open_issues": 732,
             "owner": "marktext",
             "repo": "marktext",
-            "stars": 60729,
+            "stars": 60762,
             "topics": [
               "dark-mode",
               "editor",
@@ -317,7 +317,7 @@
             "open_issues": 897,
             "owner": "lapce",
             "repo": "lapce",
-            "stars": 38785,
+            "stars": 38788,
             "topics": [
               "code-editor",
               "developer-tools",
@@ -688,45 +688,30 @@
             "topics": []
           },
           "first_seen": "2026-08-28T19:01:38.463Z"
-        }
-      ],
-      "title": "Knowledge Base"
-    },
-    {
-      "description": null,
-      "items": [
+        },
         {
           "node_type": "item",
-          "title": "Animockup",
-          "description": null,
+          "title": "reqlan",
+          "description": "Semantic requirements as code: a graph of named ideas your agents can search, link, reuse, test and maintain.",
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "Create animated mockups in the browser 🔥",
-            "homepage": "https://animockup.com",
-            "id": 248908265,
-            "language": "JavaScript",
-            "license": "MIT",
-            "last_commit": "2022-07-02T08:12:35Z",
-            "open_issues": 3,
-            "owner": "alyssaxuu",
-            "repo": "animockup",
-            "stars": 1925,
-            "topics": [
-              "canvas",
-              "design",
-              "design-tools",
-              "editor",
-              "javascript",
-              "marketing",
-              "marketing-tools",
-              "tool"
-            ]
+            "description": "semantic **engineering** toolset. Language | Extension | CLI | MCP | LLM-first context management tools.",
+            "homepage": "https://reqlan.com",
+            "id": 1275990313,
+            "language": "TypeScript",
+            "license": null,
+            "last_commit": "2026-08-30T08:39:46Z",
+            "open_issues": 6,
+            "owner": "littletuna4",
+            "repo": "reqlan",
+            "stars": 3,
+            "topics": []
           },
-          "first_seen": "2026-08-28T19:01:38.463Z"
+          "first_seen": "2026-08-30T12:17:52.967Z"
         }
       ],
-      "title": "Mockup"
+      "title": "Knowledge Base"
     },
     {
       "description": null,
@@ -773,7 +758,7 @@
             "open_issues": 75,
             "owner": "lycheeverse",
             "repo": "lychee",
-            "stars": 3872,
+            "stars": 3875,
             "topics": [
               "broken-links",
               "check",
@@ -958,6 +943,37 @@
             "topics": []
           },
           "first_seen": "2026-08-28T19:01:38.463Z"
+        },
+        {
+          "node_type": "item",
+          "title": "docproof",
+          "description": "Checks whether what documentation claims is still true of the repository: file paths, CLI flags, versions, and documented imports, each resolved against the code and its git history.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Prove your documentation against your code. Finds README and docs claims the repository contradicts.",
+            "homepage": "https://github.com/marketplace/actions/docproof-documentation-check",
+            "id": 1330170125,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-08-24T18:39:13Z",
+            "open_issues": 0,
+            "owner": "melbinjp",
+            "repo": "docproof",
+            "stars": 0,
+            "topics": [
+              "ci",
+              "developer-tools",
+              "docs-as-code",
+              "documentation",
+              "documentation-tool",
+              "github-action",
+              "python",
+              "static-analysis",
+              "technical-documentation"
+            ]
+          },
+          "first_seen": "2026-08-30T12:17:52.967Z"
         }
       ],
       "title": "Quality Assurance"
@@ -981,7 +997,7 @@
             "open_issues": 254,
             "owner": "wulkano",
             "repo": "Kap",
-            "stars": 19340,
+            "stars": 19342,
             "topics": [
               "aperture",
               "app",
@@ -1019,7 +1035,7 @@
             "open_issues": 8,
             "owner": "alyssaxuu",
             "repo": "screenity",
-            "stars": 18512,
+            "stars": 18515,
             "topics": [
               "annotation",
               "annotation-tool",
@@ -1099,7 +1115,7 @@
             "open_issues": 5,
             "owner": "phw",
             "repo": "peek",
-            "stars": 10555,
+            "stars": 10554,
             "topics": [
               "apng",
               "gif",
@@ -1168,11 +1184,11 @@
             "id": 90902132,
             "language": "C++",
             "license": "GPL-3.0",
-            "last_commit": "2026-08-28T19:11:15Z",
+            "last_commit": "2026-08-30T08:50:34Z",
             "open_issues": 716,
             "owner": "flameshot-org",
             "repo": "flameshot",
-            "stars": 30708,
+            "stars": 30718,
             "topics": [
               "capture",
               "cross-platform",
@@ -1246,6 +1262,48 @@
             ]
           },
           "first_seen": "2026-08-28T19:01:38.463Z"
+        },
+        {
+          "node_type": "item",
+          "title": "ItsPaint",
+          "description": "(macOS)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "MS Paint for the Mac. Native, free and open source: blank canvas at any size, drop one image onto another, crop, and mark up screenshots. Ships PaintKit, a UI-free drawing engine with no AppKit and no third-party dependencies: macOS 12+, and swift test runs it in a fresh clone with no Xcode.",
+            "homepage": "https://itspaintmac.com/",
+            "id": 1315761335,
+            "language": "Swift",
+            "license": "MIT",
+            "last_commit": "2026-08-27T09:00:59Z",
+            "open_issues": 12,
+            "owner": "joshlin2201",
+            "repo": "itspaint",
+            "stars": 12,
+            "topics": [
+              "appkit",
+              "drawing",
+              "good-first-issue",
+              "help-wanted",
+              "image-editor",
+              "image-processing",
+              "mac-app",
+              "macos",
+              "markup",
+              "ms-paint",
+              "mspaint",
+              "open-source",
+              "paint",
+              "paint-app",
+              "pixel-art",
+              "screenshot-annotation",
+              "swift",
+              "swift-package",
+              "swift-package-manager",
+              "swiftpm"
+            ]
+          },
+          "first_seen": "2026-08-30T12:17:52.967Z"
         }
       ],
       "title": "Screenshot"
@@ -1266,7 +1324,7 @@
             "language": "Rust",
             "license": "MPL-2.0",
             "last_commit": "2026-08-28T20:54:35Z",
-            "open_issues": 668,
+            "open_issues": 669,
             "owner": "rust-lang",
             "repo": "mdBook",
             "stars": 22104,
@@ -1315,10 +1373,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-08-18T23:21:30Z",
-            "open_issues": 66,
+            "open_issues": 68,
             "owner": "jackyzha0",
             "repo": "quartz",
-            "stars": 13129,
+            "stars": 13135,
             "topics": [
               "digital-garden",
               "networked-thought",
@@ -1409,7 +1467,7 @@
             "open_issues": 32,
             "owner": "timothycrosley",
             "repo": "portray",
-            "stars": 864,
+            "stars": 863,
             "topics": [
               "command-line",
               "documentation",
@@ -1518,6 +1576,40 @@
           "first_seen": "2026-08-28T19:01:38.463Z"
         },
         {
+          "node_type": "item",
+          "title": "Nibleaf",
+          "description": "Open-source platform for editing, publishing, searching, and self-hosting multilingual Markdown and MDX documentation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Open-source documentation platform with a visual Markdown editor, Arabic/RTL support, search, and self-hosting.",
+            "homepage": "https://nibleaf.com",
+            "id": 1285590792,
+            "language": "TypeScript",
+            "license": "AGPL-3.0",
+            "last_commit": "2026-08-25T03:12:31Z",
+            "open_issues": 3,
+            "owner": "lord007tn",
+            "repo": "nibleaf",
+            "stars": 4,
+            "topics": [
+              "arabic",
+              "docker",
+              "documentation",
+              "documentation-site",
+              "documentation-tool",
+              "markdown",
+              "mdx",
+              "open-source",
+              "rtl",
+              "self-hosted",
+              "technical-writing",
+              "typescript"
+            ]
+          },
+          "first_seen": "2026-08-30T12:17:52.967Z"
+        },
+        {
           "children": [
             {
               "node_type": "item",
@@ -1601,8 +1693,8 @@
                 "id": 157119836,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-08-28T11:28:51Z",
-                "open_issues": 1,
+                "last_commit": "2026-08-29T15:19:48Z",
+                "open_issues": 0,
                 "owner": "adamtheturtle",
                 "repo": "sphinx-substitution-extensions",
                 "stars": 41,
@@ -1696,10 +1788,10 @@
             "language": "TypeScript",
             "license": "CC-BY-4.0",
             "last_commit": "2026-08-28T23:25:44Z",
-            "open_issues": 103,
+            "open_issues": 105,
             "owner": "github",
             "repo": "docs",
-            "stars": 20753,
+            "stars": 20758,
             "topics": [
               "docs",
               "works-with-codespaces"
@@ -1798,10 +1890,10 @@
             "language": "TypeScript",
             "license": "Apache-2.0",
             "last_commit": "2026-08-29T01:43:34Z",
-            "open_issues": 169,
+            "open_issues": 176,
             "owner": "microsoft",
             "repo": "playwright",
-            "stars": 95326,
+            "stars": 95369,
             "topics": [
               "automation",
               "chrome",
@@ -1835,10 +1927,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2024-07-28T19:57:31Z",
-            "open_issues": 193,
+            "open_issues": 195,
             "owner": "goabstract",
             "repo": "Awesome-Design-Tools",
-            "stars": 41019,
+            "stars": 41028,
             "topics": [
               "animations",
               "awesome",
@@ -1868,7 +1960,7 @@
             "open_issues": 22,
             "owner": "nilbuild",
             "repo": "driver.js",
-            "stars": 26648,
+            "stars": 26650,
             "topics": [
               "feature-introductions",
               "overlay",
@@ -1900,7 +1992,7 @@
             "open_issues": 34,
             "owner": "shipshapecode",
             "repo": "shepherd",
-            "stars": 13798,
+            "stars": 13808,
             "topics": [
               "hacktoberfest",
               "shepherd",
@@ -1925,7 +2017,7 @@
             "open_issues": 69,
             "owner": "npryce",
             "repo": "adr-tools",
-            "stars": 5632,
+            "stars": 5636,
             "topics": [
               "architecture",
               "architecture-decision-records",
@@ -1951,7 +2043,7 @@
             "open_issues": 52,
             "owner": "AlmanacCode",
             "repo": "codealmanac",
-            "stars": 1010,
+            "stars": 986,
             "topics": [
               "ai",
               "claude",
@@ -2247,10 +2339,10 @@
             "language": "Go",
             "license": "MIT",
             "last_commit": "2026-08-16T00:02:03Z",
-            "open_issues": 225,
+            "open_issues": 226,
             "owner": "charmbracelet",
             "repo": "glow",
-            "stars": 27109,
+            "stars": 27124,
             "topics": [
               "cli",
               "excitement",
@@ -2286,7 +2378,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T12:50:42.575Z",
+    "last_updated": "2026-08-30T12:17:52.967Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome documentation tools",
@@ -2294,8 +2386,8 @@
       "id": 191968647,
       "language": null,
       "license": "NOASSERTION",
-      "last_commit": "2026-08-01T05:56:05Z",
-      "open_issues": 16,
+      "last_commit": "2026-08-30T10:46:01Z",
+      "open_issues": 9,
       "owner": "testthedocs",
       "repo": "awesome-docs",
       "stars": 890,
@@ -2305,7 +2397,7 @@
         "docs"
       ]
     },
-    "original_repository_sha": "5f72293f4384bd75b96f6b531e87cfcc57a3d7cf",
+    "original_repository_sha": "de79bfe5c61d9e974d6c6b762fc86ce215b88b7a",
     "enhanced_repository": "enhansome/enhansome-docs",
     "enhanced_repository_description": null,
     "title": "Awesome Docs with stars"
