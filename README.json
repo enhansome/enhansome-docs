@@ -72,11 +72,11 @@
             "id": 203587744,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-24T10:08:52Z",
-            "open_issues": 830,
+            "last_commit": "2026-09-25T06:20:58Z",
+            "open_issues": 832,
             "owner": "hoppscotch",
             "repo": "hoppscotch",
-            "stars": 80495,
+            "stars": 80508,
             "topics": [
               "api",
               "api-client",
@@ -99,6 +99,47 @@
             ]
           },
           "first_seen": "2026-08-28T19:01:38.463Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Cortex",
+          "description": "Generates interactive or static API documentation, typed SDKs, and MCP servers from several API specification formats.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Cortex - Generates interactive API documentation, typed SDKs, and MCP servers from OpenAPI, AsyncAPI, GraphQL, gRPC, OpenRPC, and Markdown.",
+            "homepage": "https://cortexdocs.dev",
+            "id": 30551356,
+            "language": "TypeScript",
+            "license": "MIT",
+            "last_commit": "2026-09-25T10:08:28Z",
+            "open_issues": 0,
+            "owner": "cortex-docs",
+            "repo": "cortex",
+            "stars": 3215,
+            "topics": [
+              "api-client",
+              "api-documentation",
+              "api-reference",
+              "asyncapi",
+              "code-generation",
+              "docs",
+              "documentation-generator",
+              "graphql",
+              "grpc",
+              "markdown",
+              "mcp",
+              "mcp-server",
+              "mode-context-protocol",
+              "openapi",
+              "openapi-generator",
+              "openrpc",
+              "protobuf",
+              "sdk-generator",
+              "swagger"
+            ]
+          },
+          "first_seen": "2026-09-25T12:19:57.936Z"
         },
         {
           "node_type": "item",
@@ -142,8 +183,8 @@
             "id": 207588519,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-24T12:01:44Z",
-            "open_issues": 162,
+            "last_commit": "2026-09-25T12:14:19Z",
+            "open_issues": 163,
             "owner": "Redocly",
             "repo": "redocly-cli",
             "stars": 1515,
@@ -267,6 +308,85 @@
       "items": [
         {
           "node_type": "item",
+          "title": "Puppeteer",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "JavaScript API for Chrome and Firefox",
+            "homepage": "https://pptr.dev",
+            "id": 90796663,
+            "language": "TypeScript",
+            "license": "Apache-2.0",
+            "last_commit": "2026-09-24T19:40:00Z",
+            "open_issues": 263,
+            "owner": "puppeteer",
+            "repo": "puppeteer",
+            "stars": 95620,
+            "topics": [
+              "automation",
+              "chrome",
+              "chromium",
+              "developer-tools",
+              "firefox",
+              "headless-chrome",
+              "node-module",
+              "testing",
+              "web"
+            ]
+          },
+          "first_seen": "2026-09-25T12:19:57.936Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Agent QA",
+          "description": "Source-available natural-language browser testing with reusable execution memory, UI recovery, and run artifacts.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Open-source self-improving QA agent for software teams. A test harness with memory. Write tests in natural language for web and mobile. agent-qa learns from every run, adapts to UI changes, and catches regressions before you ship.",
+            "homepage": "https://vostride.com",
+            "id": 1232322871,
+            "language": "TypeScript",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-03T18:44:59Z",
+            "open_issues": 0,
+            "owner": "vostride",
+            "repo": "agent-qa",
+            "stars": 887,
+            "topics": [
+              "ai-agents",
+              "ai-testing",
+              "anthropic",
+              "autonomous-agents",
+              "browser-automation",
+              "chatgpt",
+              "claude-code",
+              "clawdbot",
+              "codex",
+              "developer-tools",
+              "dsh-plugin",
+              "end-to-end-testing",
+              "frontend",
+              "mcp",
+              "mcp-server",
+              "mcp-tools",
+              "model-context-protocol",
+              "openai",
+              "playwright",
+              "qa-automation"
+            ]
+          },
+          "first_seen": "2026-09-25T12:19:57.936Z"
+        }
+      ],
+      "title": "Browser Testing"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
           "title": "Mark Text",
           "description": null,
           "children": [],
@@ -277,11 +397,11 @@
             "id": 110446844,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-24T02:31:55Z",
-            "open_issues": 384,
+            "last_commit": "2026-09-25T07:08:39Z",
+            "open_issues": 382,
             "owner": "marktext",
             "repo": "marktext",
-            "stars": 61809,
+            "stars": 61828,
             "topics": [
               "dark-mode",
               "editor",
@@ -313,11 +433,11 @@
             "id": 120425779,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-24T00:49:29Z",
+            "last_commit": "2026-09-25T00:48:27Z",
             "open_issues": 905,
             "owner": "lapce",
             "repo": "lapce",
-            "stars": 38865,
+            "stars": 38869,
             "topics": [
               "code-editor",
               "developer-tools",
@@ -350,7 +470,7 @@
             "open_issues": 179,
             "owner": "papercups-io",
             "repo": "papercups",
-            "stars": 6114,
+            "stars": 6115,
             "topics": [
               "chat-widget",
               "customer-support",
@@ -480,7 +600,7 @@
             "open_issues": 0,
             "owner": "vale-cli",
             "repo": "vale-action",
-            "stars": 256,
+            "stars": 258,
             "topics": [
               "github-actions",
               "vale"
@@ -558,6 +678,40 @@
             "topics": []
           },
           "first_seen": "2026-08-28T19:01:38.463Z"
+        },
+        {
+          "node_type": "item",
+          "title": "relnote",
+          "description": "Generate GitHub-flavored release notes from a git range (stdlib Python CLI + Action; conventional-commit grouping).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Offline CLI and GitHub Action for conventional-commit release notes. stdlib Python, no API, no config.",
+            "homepage": "https://loki-inu.github.io/relnote/",
+            "id": 1336023830,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-09-25T08:20:40Z",
+            "open_issues": 0,
+            "owner": "loki-inu",
+            "repo": "relnote",
+            "stars": 1,
+            "topics": [
+              "automation",
+              "changelog",
+              "changelog-generator",
+              "cli",
+              "conventional-commits",
+              "devops",
+              "git",
+              "github-action",
+              "github-actions",
+              "python",
+              "release",
+              "release-notes"
+            ]
+          },
+          "first_seen": "2026-09-25T12:19:57.936Z"
         },
         {
           "node_type": "item",
@@ -684,7 +838,7 @@
             "open_issues": 0,
             "owner": "plasma-ai",
             "repo": "wiki",
-            "stars": 101,
+            "stars": 102,
             "topics": []
           },
           "first_seen": "2026-08-28T19:01:38.463Z"
@@ -732,7 +886,7 @@
             "open_issues": 28,
             "owner": "get-alex",
             "repo": "alex",
-            "stars": 5102,
+            "stars": 5103,
             "topics": [
               "alex",
               "hacktoberfest2018",
@@ -758,7 +912,7 @@
             "open_issues": 72,
             "owner": "lycheeverse",
             "repo": "lychee",
-            "stars": 3940,
+            "stars": 3943,
             "topics": [
               "broken-links",
               "check",
@@ -974,6 +1128,40 @@
             ]
           },
           "first_seen": "2026-08-30T12:17:52.967Z"
+        },
+        {
+          "node_type": "item",
+          "title": "mdoctest",
+          "description": "Runs the code blocks and console sessions in Markdown docs and checks their output still matches, with to update them; language-agnostic and dependency-free.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "doctest for Markdown, in any language. Run the console sessions & code in your docs and verify (or --fix) their output. Zero deps; pre-commit hook + GitHub Action.",
+            "homepage": "https://ingrid-owusu.github.io/mdoctest/",
+            "id": 1373994699,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-09-22T12:17:33Z",
+            "open_issues": 0,
+            "owner": "ingrid-owusu",
+            "repo": "mdoctest",
+            "stars": 0,
+            "topics": [
+              "cli",
+              "developer-tools",
+              "docs-as-code",
+              "doctest",
+              "documentation",
+              "documentation-tool",
+              "github-actions",
+              "markdown",
+              "pre-commit",
+              "python",
+              "readme",
+              "testing"
+            ]
+          },
+          "first_seen": "2026-09-25T12:19:57.936Z"
         }
       ],
       "title": "Quality Assurance"
@@ -997,7 +1185,7 @@
             "open_issues": 258,
             "owner": "wulkano",
             "repo": "Kap",
-            "stars": 19373,
+            "stars": 19374,
             "topics": [
               "aperture",
               "app",
@@ -1032,10 +1220,10 @@
             "language": "JavaScript",
             "license": "GPL-3.0",
             "last_commit": "2026-09-22T15:42:24Z",
-            "open_issues": 9,
+            "open_issues": 10,
             "owner": "alyssaxuu",
             "repo": "screenity",
-            "stars": 18726,
+            "stars": 18728,
             "topics": [
               "annotation",
               "annotation-tool",
@@ -1147,7 +1335,7 @@
             "open_issues": 80,
             "owner": "mifi",
             "repo": "editly",
-            "stars": 5508,
+            "stars": 5510,
             "topics": [
               "animations",
               "cli",
@@ -1188,7 +1376,7 @@
             "open_issues": 731,
             "owner": "flameshot-org",
             "repo": "flameshot",
-            "stars": 30919,
+            "stars": 30923,
             "topics": [
               "capture",
               "cross-platform",
@@ -1215,8 +1403,8 @@
             "id": 467679579,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-13T23:58:14Z",
-            "open_issues": 58,
+            "last_commit": "2026-09-24T21:26:15Z",
+            "open_issues": 59,
             "owner": "simonw",
             "repo": "shot-scraper",
             "stars": 2581,
@@ -1270,16 +1458,16 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "MS Paint for the Mac. Native, free and open source: blank canvas at any size, drop one image onto another, crop, and mark up screenshots. Ships PaintKit, a UI-free drawing engine with no AppKit and no third-party dependencies: macOS 12+, and swift test runs it in a fresh clone with no Xcode.",
+            "description": "MS Paint for the Mac. Mark up screenshots or paint from scratch. The drawing engine ships as PaintKit, a UI-free Swift package with no dependencies that supports macOS 12 and later.",
             "homepage": "https://itspaintmac.com/",
             "id": 1315761335,
             "language": "Swift",
             "license": "MIT",
-            "last_commit": "2026-09-24T10:49:49Z",
+            "last_commit": "2026-09-25T08:27:37Z",
             "open_issues": 10,
             "owner": "joshlin2201",
             "repo": "itspaint",
-            "stars": 22,
+            "stars": 25,
             "topics": [
               "appkit",
               "drawing",
@@ -1327,7 +1515,7 @@
             "open_issues": 657,
             "owner": "rust-lang",
             "repo": "mdBook",
-            "stars": 22170,
+            "stars": 22174,
             "topics": []
           },
           "first_seen": "2026-08-28T19:01:38.463Z"
@@ -1373,10 +1561,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-09-20T20:17:23Z",
-            "open_issues": 79,
+            "open_issues": 80,
             "owner": "jackyzha0",
             "repo": "quartz",
-            "stars": 13281,
+            "stars": 13283,
             "topics": [
               "digital-garden",
               "networked-thought",
@@ -1404,7 +1592,7 @@
             "open_issues": 57,
             "owner": "thomvaill",
             "repo": "log4brains",
-            "stars": 1594,
+            "stars": 1596,
             "topics": [
               "adr",
               "architecture",
@@ -1436,7 +1624,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-09-20T06:29:07Z",
-            "open_issues": 20,
+            "open_issues": 21,
             "owner": "wevm",
             "repo": "vocs",
             "stars": 1552,
@@ -1693,7 +1881,7 @@
                 "id": 157119836,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-24T11:26:22Z",
+                "last_commit": "2026-09-25T11:26:17Z",
                 "open_issues": 0,
                 "owner": "adamtheturtle",
                 "repo": "sphinx-substitution-extensions",
@@ -1748,7 +1936,7 @@
                 "open_issues": 52,
                 "owner": "pradyunsg",
                 "repo": "furo",
-                "stars": 3595,
+                "stars": 3598,
                 "topics": [
                   "clean",
                   "customizable",
@@ -1787,11 +1975,11 @@
             "id": 189621607,
             "language": "TypeScript",
             "license": "CC-BY-4.0",
-            "last_commit": "2026-09-24T12:17:15Z",
-            "open_issues": 40,
+            "last_commit": "2026-09-25T06:57:05Z",
+            "open_issues": 44,
             "owner": "github",
             "repo": "docs",
-            "stars": 20883,
+            "stars": 20892,
             "topics": [
               "docs",
               "works-with-codespaces"
@@ -1889,11 +2077,11 @@
             "id": 221981891,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-24T09:30:05Z",
-            "open_issues": 195,
+            "last_commit": "2026-09-25T09:23:06Z",
+            "open_issues": 176,
             "owner": "microsoft",
             "repo": "playwright",
-            "stars": 96614,
+            "stars": 96657,
             "topics": [
               "automation",
               "chrome",
@@ -1930,7 +2118,7 @@
             "open_issues": 208,
             "owner": "goabstract",
             "repo": "Awesome-Design-Tools",
-            "stars": 41306,
+            "stars": 41315,
             "topics": [
               "animations",
               "awesome",
@@ -1960,7 +2148,7 @@
             "open_issues": 23,
             "owner": "nilbuild",
             "repo": "driver.js",
-            "stars": 26830,
+            "stars": 26838,
             "topics": [
               "feature-introductions",
               "overlay",
@@ -1992,7 +2180,7 @@
             "open_issues": 34,
             "owner": "shipshapecode",
             "repo": "shepherd",
-            "stars": 13814,
+            "stars": 13816,
             "topics": [
               "hacktoberfest",
               "shepherd",
@@ -2017,7 +2205,7 @@
             "open_issues": 69,
             "owner": "npryce",
             "repo": "adr-tools",
-            "stars": 5705,
+            "stars": 5707,
             "topics": [
               "architecture",
               "architecture-decision-records",
@@ -2040,10 +2228,10 @@
             "language": "TypeScript",
             "license": "Apache-2.0",
             "last_commit": "2026-07-25T00:00:46Z",
-            "open_issues": 53,
+            "open_issues": 52,
             "owner": "AlmanacCode",
             "repo": "codealmanac",
-            "stars": 995,
+            "stars": 993,
             "topics": [
               "ai",
               "claude",
@@ -2342,7 +2530,7 @@
             "open_issues": 235,
             "owner": "charmbracelet",
             "repo": "glow",
-            "stars": 27450,
+            "stars": 27463,
             "topics": [
               "cli",
               "excitement",
@@ -2378,7 +2566,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T12:18:55.201Z",
+    "last_updated": "2026-09-25T12:19:57.936Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome documentation tools",
@@ -2386,8 +2574,8 @@
       "id": 191968647,
       "language": null,
       "license": "NOASSERTION",
-      "last_commit": "2026-08-30T10:46:01Z",
-      "open_issues": 15,
+      "last_commit": "2026-09-25T06:56:29Z",
+      "open_issues": 9,
       "owner": "testthedocs",
       "repo": "awesome-docs",
       "stars": 895,
@@ -2397,7 +2585,7 @@
         "docs"
       ]
     },
-    "original_repository_sha": "de79bfe5c61d9e974d6c6b762fc86ce215b88b7a",
+    "original_repository_sha": "f395ebf6891dc72f2771edc962d7e85cf6516f21",
     "enhanced_repository": "enhansome/enhansome-docs",
     "enhanced_repository_description": null,
     "title": "Awesome Docs with stars"
