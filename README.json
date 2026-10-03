@@ -116,7 +116,7 @@
             "open_issues": 0,
             "owner": "cortex-docs",
             "repo": "cortex",
-            "stars": 3216,
+            "stars": 3221,
             "topics": [
               "api-client",
               "api-documentation",
@@ -183,8 +183,8 @@
             "id": 207588519,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-03T01:24:55Z",
-            "open_issues": 173,
+            "last_commit": "2026-10-03T06:04:24Z",
+            "open_issues": 180,
             "owner": "Redocly",
             "repo": "redocly-cli",
             "stars": 1517,
@@ -318,11 +318,11 @@
             "id": 90796663,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T16:26:37Z",
+            "last_commit": "2026-10-03T06:19:59Z",
             "open_issues": 272,
             "owner": "puppeteer",
             "repo": "puppeteer",
-            "stars": 95644,
+            "stars": 95645,
             "topics": [
               "automation",
               "chrome",
@@ -353,7 +353,7 @@
             "open_issues": 0,
             "owner": "vostride",
             "repo": "agent-qa",
-            "stars": 894,
+            "stars": 895,
             "topics": [
               "ai-agents",
               "ai-testing",
@@ -398,10 +398,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-10-02T13:01:02Z",
-            "open_issues": 350,
+            "open_issues": 351,
             "owner": "marktext",
             "repo": "marktext",
-            "stars": 62057,
+            "stars": 62071,
             "topics": [
               "dark-mode",
               "editor",
@@ -437,7 +437,7 @@
             "open_issues": 900,
             "owner": "lapce",
             "repo": "lapce",
-            "stars": 38885,
+            "stars": 38887,
             "topics": [
               "code-editor",
               "developer-tools",
@@ -886,7 +886,7 @@
             "open_issues": 28,
             "owner": "get-alex",
             "repo": "alex",
-            "stars": 5102,
+            "stars": 5103,
             "topics": [
               "alex",
               "hacktoberfest2018",
@@ -909,10 +909,10 @@
             "language": "Rust",
             "license": "Apache-2.0",
             "last_commit": "2026-09-28T16:58:58Z",
-            "open_issues": 76,
+            "open_issues": 77,
             "owner": "lycheeverse",
             "repo": "lychee",
-            "stars": 3973,
+            "stars": 3975,
             "topics": [
               "broken-links",
               "check",
@@ -1335,7 +1335,7 @@
             "open_issues": 80,
             "owner": "mifi",
             "repo": "editly",
-            "stars": 5513,
+            "stars": 5514,
             "topics": [
               "animations",
               "cli",
@@ -1372,11 +1372,11 @@
             "id": 90902132,
             "language": "C++",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-17T21:37:22Z",
-            "open_issues": 745,
+            "last_commit": "2026-10-03T07:37:21Z",
+            "open_issues": 742,
             "owner": "flameshot-org",
             "repo": "flameshot",
-            "stars": 31067,
+            "stars": 31070,
             "topics": [
               "capture",
               "cross-platform",
@@ -1515,7 +1515,7 @@
             "open_issues": 657,
             "owner": "rust-lang",
             "repo": "mdBook",
-            "stars": 22186,
+            "stars": 22187,
             "topics": []
           },
           "first_seen": "2026-08-28T19:01:38.463Z"
@@ -1564,7 +1564,7 @@
             "open_issues": 86,
             "owner": "jackyzha0",
             "repo": "quartz",
-            "stars": 13320,
+            "stars": 13321,
             "topics": [
               "digital-garden",
               "networked-thought",
@@ -1979,7 +1979,7 @@
             "open_issues": 42,
             "owner": "github",
             "repo": "docs",
-            "stars": 20938,
+            "stars": 20939,
             "topics": [
               "docs",
               "works-with-codespaces"
@@ -2077,11 +2077,11 @@
             "id": 221981891,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-03T00:21:53Z",
-            "open_issues": 205,
+            "last_commit": "2026-10-03T06:57:47Z",
+            "open_issues": 207,
             "owner": "microsoft",
             "repo": "playwright",
-            "stars": 97022,
+            "stars": 97034,
             "topics": [
               "automation",
               "chrome",
@@ -2118,7 +2118,7 @@
             "open_issues": 211,
             "owner": "goabstract",
             "repo": "Awesome-Design-Tools",
-            "stars": 41378,
+            "stars": 41382,
             "topics": [
               "animations",
               "awesome",
@@ -2144,8 +2144,8 @@
             "id": 124792826,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-07-18T16:01:07Z",
-            "open_issues": 27,
+            "last_commit": "2026-10-03T09:36:04Z",
+            "open_issues": 9,
             "owner": "nilbuild",
             "repo": "driver.js",
             "stars": 26872,
@@ -2180,7 +2180,7 @@
             "open_issues": 30,
             "owner": "shipshapecode",
             "repo": "shepherd",
-            "stars": 13820,
+            "stars": 13819,
             "topics": [
               "hacktoberfest",
               "shepherd",
@@ -2205,7 +2205,7 @@
             "open_issues": 69,
             "owner": "npryce",
             "repo": "adr-tools",
-            "stars": 5720,
+            "stars": 5721,
             "topics": [
               "architecture",
               "architecture-decision-records",
@@ -2530,7 +2530,7 @@
             "open_issues": 240,
             "owner": "charmbracelet",
             "repo": "glow",
-            "stars": 27562,
+            "stars": 27565,
             "topics": [
               "cli",
               "excitement",
@@ -2566,7 +2566,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:42:53.091Z",
+    "last_updated": "2026-10-03T12:04:47.510Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome documentation tools",
