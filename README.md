@@ -62,9 +62,9 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 
 ## API
 
-* [Hoppscotch](https://github.com/hoppscotch/hoppscotch) ⭐ 80,592 | 🐛 850 | 🌐 TypeScript | 📅 2026-10-07
-* [Cortex](https://github.com/cortex-docs/cortex) ⭐ 3,234 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-06 - Generates interactive or static API documentation, typed SDKs, and MCP servers from several API specification formats.
-* [widdershins](https://github.com/Mermade/widdershins) ⭐ 1,583 | 🐛 89 | 🌐 JavaScript | 📅 2024-06-04
+* [Hoppscotch](https://github.com/hoppscotch/hoppscotch) ⭐ 80,593 | 🐛 848 | 🌐 TypeScript | 📅 2026-10-07
+* [Cortex](https://github.com/cortex-docs/cortex) ⭐ 3,237 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-06 - Generates interactive or static API documentation, typed SDKs, and MCP servers from several API specification formats.
+* [widdershins](https://github.com/Mermade/widdershins) ⭐ 1,582 | 🐛 89 | 🌐 JavaScript | 📅 2024-06-04
 * [OpenAPI 3 CLI](https://github.com/Redocly/openapi-cli) ⭐ 1,519 | 🐛 171 | 🌐 TypeScript | 📅 2026-10-09
 * [Speccy](https://github.com/wework/speccy) ⭐ 839 | 🐛 83 | 🌐 JavaScript | 📅 2022-12-30
 * [swaggerui](https://github.com/flowchartsman/swaggerui) ⭐ 91 | 🐛 6 | 🌐 Go | 📅 2024-04-19
@@ -97,16 +97,16 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 
 ## Browser Testing
 
-* [Puppeteer](https://github.com/GoogleChrome/puppeteer) ⭐ 95,675 | 🐛 269 | 🌐 TypeScript | 📅 2026-10-09
-* [Agent QA](https://github.com/vostride/agent-qa) ⭐ 903 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-03 - Source-available natural-language browser testing with reusable execution memory, UI recovery, and run artifacts.
+* [Puppeteer](https://github.com/GoogleChrome/puppeteer) ⭐ 95,673 | 🐛 272 | 🌐 TypeScript | 📅 2026-10-09
+* [Agent QA](https://github.com/vostride/agent-qa) ⭐ 904 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-03 - Source-available natural-language browser testing with reusable execution memory, UI recovery, and run artifacts.
 * [Nightwatch.js](https://nightwatchjs.org/)
 * [Playwright](https://playwright.dev/)
 * [Selenium](https://www.seleniumhq.org/)
 
 ## Editor
 
-* [Mark Text](https://github.com/marktext/marktext) ⭐ 62,295 | 🐛 320 | 🌐 TypeScript | 📅 2026-10-09
-* [Lapce](https://github.com/lapce/lapce) ⭐ 38,903 | 🐛 897 | 🌐 Rust | 📅 2026-10-09
+* [Mark Text](https://github.com/marktext/marktext) ⭐ 62,379 | 🐛 320 | 🌐 TypeScript | 📅 2026-10-10
+* [Lapce](https://github.com/lapce/lapce) ⭐ 38,901 | 🐛 897 | 🌐 Rust | 📅 2026-10-09
 * [DraftView Edit](https://www.draftview.app/edit) - Paste a GitHub or GitLab file URL to edit it in DraftView and submit it back as a pull request or merge request.
 * [HackMD](https://hackmd.io/)
 * [Notula](https://notula.org) - Desktop WYSIWYG editor for the Markdown in a git repository, with comment threads committed beside the documents.
@@ -118,12 +118,12 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 
 ## Feedback
 
-* [Papercups](https://github.com/papercups-io/papercups) ⭐ 6,115 | 🐛 179 | 🌐 Elixir | 📅 2024-02-15
+* [Papercups](https://github.com/papercups-io/papercups) ⭐ 6,117 | 🐛 179 | 🌐 Elixir | 📅 2024-02-15
 * [notabene](https://github.com/z29k/notabene) ⭐ 5 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-06 - Renders a repo's Markdown/MDX as a navigable site with anchored, Google-Docs-style comments; an agent applies them as source edits and journals the changes.
 
 ## GitHub Actions
 
-* [Lighthouse CI Action](https://github.com/treosh/lighthouse-ci-action) ⭐ 1,291 | 🐛 32 | 🌐 JavaScript | 📅 2026-03-12
+* [Lighthouse CI Action](https://github.com/treosh/lighthouse-ci-action) ⭐ 1,292 | 🐛 32 | 🌐 JavaScript | 📅 2026-03-12
 * [TODO to Issue Action](https://github.com/alstr/todo-to-issue-action) ⭐ 801 | 🐛 6 | 🌐 Python | 📅 2026-07-06
 * [Vale](https://github.com/errata-ai/vale-action) ⭐ 258 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-03
 * [TOC Generator](https://github.com/technote-space/toc-generator) ⭐ 248 | 🐛 7 | 🌐 TypeScript | 📅 2023-05-09
@@ -155,7 +155,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 ## Knowledge Base
 
 * [wiki](https://github.com/plasma-ai/wiki) ⭐ 104 | 🐛 0 | 🌐 Python | 📅 2026-09-28 - Indexed Markdown knowledge bases for agents, with deterministic indexes, scoped retrieval, linting, and merge handling for parallel edits.
-* [reqlan](https://github.com/littletuna4/reqlan) ⭐ 4 | 🐛 9 | 🌐 TypeScript | 📅 2026-09-27 - Semantic requirements as code: a graph of named ideas your agents can search, link, reuse, test and maintain.
+* [reqlan](https://github.com/littletuna4/reqlan) ⭐ 4 | 🐛 10 | 🌐 TypeScript | 📅 2026-10-10 - Semantic requirements as code: a graph of named ideas your agents can search, link, reuse, test and maintain.
 * [Document360](https://document360.com/)
 * [Falconer](https://falconer.com/mcp)
 * [Logseq](https://logseq.com/)
@@ -164,14 +164,14 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 
 ## Mockup
 
-* [Animockup](https://github.com/alyssaxuu/animockup) ⭐ 1,931 | 🐛 3 | 🌐 JavaScript | 📅 2022-07-02
+* [Animockup](https://github.com/alyssaxuu/animockup) ⭐ 1,932 | 🐛 3 | 🌐 JavaScript | 📅 2022-07-02
 * [Excalidraw](https://excalidraw.com/)
 * [Markmap](https://markmap.js.org/)
 
 ## Quality Assurance
 
 * [Alex](https://github.com/get-alex/alex) ⭐ 5,105 | 🐛 28 | 🌐 JavaScript | 📅 2024-11-27
-* [lychee](https://github.com/lycheeverse/lychee) ⭐ 3,995 | 🐛 79 | 🌐 Rust | 📅 2026-10-05
+* [lychee](https://github.com/lycheeverse/lychee) ⭐ 3,998 | 🐛 79 | 🌐 Rust | 📅 2026-10-05
 * [case-police](https://github.com/antfu/case-police) ⭐ 1,426 | 🐛 8 | 🌐 TypeScript | 📅 2026-04-15
 * [brok](https://github.com/smallhadroncollider/brok) ⭐ 422 | 🐛 13 | 🌐 Haskell | 📅 2023-03-06
 * [HtmlTest](https://github.com/wjdp/htmltest) ⭐ 378 | 🐛 80 | 🌐 HTML | 📅 2025-01-20
@@ -226,9 +226,9 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 
 ## Screencast
 
-* [Kap](https://github.com/wulkano/kap) ⭐ 19,390 | 🐛 261 | 🌐 TypeScript | 📅 2024-11-12 (macOS)
-* [Screenity](https://github.com/alyssaxuu/screenity) ⭐ 18,765 | 🐛 11 | 🌐 JavaScript | 📅 2026-10-05
-* [Terminalizer](https://github.com/faressoft/terminalizer) ⭐ 16,170 | 🐛 108 | 🌐 JavaScript | 📅 2024-08-29
+* [Kap](https://github.com/wulkano/kap) ⭐ 19,392 | 🐛 261 | 🌐 TypeScript | 📅 2024-11-12 (macOS)
+* [Screenity](https://github.com/alyssaxuu/screenity) ⭐ 18,770 | 🐛 11 | 🌐 JavaScript | 📅 2026-10-05
+* [Terminalizer](https://github.com/faressoft/terminalizer) ⭐ 16,169 | 🐛 108 | 🌐 JavaScript | 📅 2024-08-29
 * [Peek](https://github.com/phw/peek) ⚠️ Archived
 * [Editly](https://github.com/mifi/editly) ⭐ 5,522 | 🐛 80 | 🌐 TypeScript | 📅 2025-05-12
 * [Asciinema](https://asciinema.org/)
@@ -236,18 +236,18 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 
 ## Screenshot
 
-* [Flameshot](https://github.com/lupoDharkael/flameshot) ⭐ 31,140 | 🐛 747 | 🌐 C++ | 📅 2026-10-03
+* [Flameshot](https://github.com/lupoDharkael/flameshot) ⭐ 31,144 | 🐛 744 | 🌐 C++ | 📅 2026-10-09
 * [shot-scraper](https://github.com/simonw/shot-scraper) ⭐ 2,590 | 🐛 60 | 🌐 Python | 📅 2026-09-24
 * [Heroshot](https://github.com/omachala/heroshot) ⭐ 75 | 🐛 4 | 🌐 TypeScript | 📅 2026-06-28
-* [ItsPaint](https://github.com/joshlin2201/itspaint) ⭐ 39 | 🐛 10 | 🌐 Swift | 📅 2026-10-07 (macOS)
+* [ItsPaint](https://github.com/joshlin2201/itspaint) ⭐ 40 | 🐛 10 | 🌐 Swift | 📅 2026-10-07 (macOS)
 * [Carbon](https://carbon.now.sh)
 * [Shottr](https://shottr.cc/)
 
 ## Site Generators
 
-* [mdBook](https://github.com/rust-lang/mdBook) ⭐ 22,206 | 🐛 656 | 🌐 Rust | 📅 2026-10-05
-* [Nextra](https://github.com/shuding/nextra) ⭐ 13,936 | 🐛 327 | 🌐 TypeScript | 📅 2026-07-31
-* [Quartz](https://github.com/jackyzha0/quartz) ⭐ 13,361 | 🐛 86 | 🌐 TypeScript | 📅 2026-10-04
+* [mdBook](https://github.com/rust-lang/mdBook) ⭐ 22,207 | 🐛 656 | 🌐 Rust | 📅 2026-10-05
+* [Nextra](https://github.com/shuding/nextra) ⭐ 13,935 | 🐛 327 | 🌐 TypeScript | 📅 2026-07-31
+* [Quartz](https://github.com/jackyzha0/quartz) ⭐ 13,364 | 🐛 86 | 🌐 TypeScript | 📅 2026-10-04
 * [Log4brains](https://github.com/thomvaill/log4brains) ⭐ 1,600 | 🐛 57 | 🌐 TypeScript | 📅 2024-12-17
 * [VuePress](https://github.com/wevm/vocs/) ⭐ 1,559 | 🐛 16 | 🌐 TypeScript | 📅 2026-10-05
 * [Portray](https://github.com/timothycrosley/portray) ⭐ 860 | 🐛 32 | 🌐 Python | 📅 2023-09-19
@@ -301,14 +301,14 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 ### Sphinx Extensions
 
 * [consoletest](https://github.com/intel/dffml/blob/master/dffml/util/testing/consoletest/README.md) ⚠️ Archived
-* [Sphinx Substitution Extensions](https://github.com/adamtheturtle/sphinx-substitution-extensions) ⭐ 41 | 🐛 0 | 🌐 Python | 📅 2026-10-09
+* [Sphinx Substitution Extensions](https://github.com/adamtheturtle/sphinx-substitution-extensions) ⭐ 41 | 🐛 4 | 🌐 Python | 📅 2026-10-10
 * [Contentui](https://github.com/ulrobix/sphinxcontrib-contentui) ⭐ 13 | 🐛 10 | 🌐 Python | 📅 2023-02-07
 * [MyST](https://myst-parser.readthedocs.io/en/latest/using/intro.html)
 * [sphinx-design](https://sphinx-design.readthedocs.io/en/latest/)
 
 ### Sphinx Themes
 
-* [Furo](https://github.com/pradyunsg/furo) ⭐ 3,615 | 🐛 49 | 🌐 Sass | 📅 2026-10-04
+* [Furo](https://github.com/pradyunsg/furo) ⭐ 3,616 | 🐛 49 | 🌐 Sass | 📅 2026-10-04
 * [Sphinx Themes](https://sphinx-themes.org/)
 * [The Sphinx Book Theme](https://sphinx-book-theme.readthedocs.io/en/latest/)
 
@@ -318,7 +318,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 
 ## Style Guides
 
-* [GitHub](https://github.com/github/docs/blob/main/contributing/content-style-guide.md#content-style-guide-for-github-docs-) ⭐ 20,982 | 🐛 44 | 🌐 TypeScript | 📅 2026-10-08
+* [GitHub](https://github.com/github/docs/blob/main/contributing/content-style-guide.md#content-style-guide-for-github-docs-) ⭐ 20,986 | 🐛 52 | 🌐 TypeScript | 📅 2026-10-09
 * [Aiven](https://github.com/aiven/devportal/blob/main/CONTRIBUTING.rst#style-guide) ⚠️ Archived
 * [Developer Style Guide](https://github.com/lornajane/developer-style-guide) ⭐ 19 | 🐛 0 | 📅 2023-12-30
 * [Rackspace](https://github.com/rackerlabs/docs-style-guide/tree/master/style-guide) ⚠️ Archived
@@ -359,9 +359,9 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 
 ## Tool Collection
 
-* [Playwright](https://github.com/microsoft/playwright) ⭐ 97,355 | 🐛 173 | 🌐 TypeScript | 📅 2026-10-09
-* [Awesome Design Tools](https://github.com/goabstract/Awesome-Design-Tools) ⭐ 41,441 | 🐛 219 | 🌐 JavaScript | 📅 2024-07-28
-* [Driver.js](https://github.com/kamranahmedse/driver.js) ⭐ 26,897 | 🐛 9 | 🌐 TypeScript | 📅 2026-10-03
+* [Playwright](https://github.com/microsoft/playwright) ⭐ 97,415 | 🐛 180 | 🌐 TypeScript | 📅 2026-10-10
+* [Awesome Design Tools](https://github.com/goabstract/Awesome-Design-Tools) ⭐ 41,450 | 🐛 220 | 🌐 JavaScript | 📅 2024-07-28
+* [Driver.js](https://github.com/kamranahmedse/driver.js) ⭐ 26,896 | 🐛 9 | 🌐 TypeScript | 📅 2026-10-03
 * [Shepherd](https://github.com/shipshapecode/shepherd) ⭐ 13,818 | 🐛 31 | 🌐 JavaScript | 📅 2026-10-07
 * [adr-tools](https://github.com/npryce/adr-tools) ⭐ 5,728 | 🐛 70 | 🌐 Shell | 📅 2024-04-25
 * [CodeAlmanac](https://github.com/AlmanacCode/codealmanac) ⭐ 997 | 🐛 54 | 🌐 TypeScript | 📅 2026-07-25 - Self-updating repository wiki for AI coding agents that tracks project conversations and context locally in the repo.
@@ -406,7 +406,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 
 ## Viewer
 
-* [Glow - Render Markdown on the CLI](https://github.com/charmbracelet/glow) ⭐ 27,637 | 🐛 242 | 🌐 Go | 📅 2026-10-05
+* [Glow - Render Markdown on the CLI](https://github.com/charmbracelet/glow) ⭐ 27,647 | 🐛 244 | 🌐 Go | 📅 2026-10-05
 * [mdv](https://github.com/xrfang/mdv/) ⭐ 20 | 🐛 5 | 🌐 JavaScript | 📅 2025-08-06
 * [MacMD Viewer](https://macmdviewer.com) - Native macOS Markdown viewer with Mermaid diagram support, QuickLook extension, and syntax highlighting for 190+ languages.
 
@@ -422,4 +422,4 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-09._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-10._
