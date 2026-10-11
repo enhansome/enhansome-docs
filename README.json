@@ -42,7 +42,7 @@
             "open_issues": 4,
             "owner": "JakePartusch",
             "repo": "lumberjack",
-            "stars": 126,
+            "stars": 127,
             "topics": [
               "a11y",
               "accessibility",
@@ -73,10 +73,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-10-07T05:46:25Z",
-            "open_issues": 848,
+            "open_issues": 847,
             "owner": "hoppscotch",
             "repo": "hoppscotch",
-            "stars": 80593,
+            "stars": 80591,
             "topics": [
               "api",
               "api-client",
@@ -116,7 +116,7 @@
             "open_issues": 0,
             "owner": "cortex-docs",
             "repo": "cortex",
-            "stars": 3237,
+            "stars": 3238,
             "topics": [
               "api-client",
               "api-documentation",
@@ -318,11 +318,11 @@
             "id": 90796663,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-09T15:22:32Z",
-            "open_issues": 272,
+            "last_commit": "2026-10-11T01:03:33Z",
+            "open_issues": 275,
             "owner": "puppeteer",
             "repo": "puppeteer",
-            "stars": 95673,
+            "stars": 95678,
             "topics": [
               "automation",
               "chrome",
@@ -367,14 +367,14 @@
               "developer-tools",
               "dsh-plugin",
               "end-to-end-testing",
+              "fair-source",
               "frontend",
               "mcp",
               "mcp-server",
               "mcp-tools",
               "model-context-protocol",
               "openai",
-              "playwright",
-              "qa-automation"
+              "playwright"
             ]
           },
           "first_seen": "2026-09-25T12:19:57.936Z"
@@ -397,11 +397,11 @@
             "id": 110446844,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-10T04:25:17Z",
-            "open_issues": 320,
+            "last_commit": "2026-10-11T13:12:41Z",
+            "open_issues": 322,
             "owner": "marktext",
             "repo": "marktext",
-            "stars": 62379,
+            "stars": 62428,
             "topics": [
               "dark-mode",
               "editor",
@@ -437,7 +437,7 @@
             "open_issues": 897,
             "owner": "lapce",
             "repo": "lapce",
-            "stars": 38901,
+            "stars": 38905,
             "topics": [
               "code-editor",
               "developer-tools",
@@ -470,7 +470,7 @@
             "open_issues": 179,
             "owner": "papercups-io",
             "repo": "papercups",
-            "stars": 6117,
+            "stars": 6116,
             "topics": [
               "chat-widget",
               "customer-support",
@@ -858,11 +858,11 @@
             "id": 1275990313,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-10T08:25:02Z",
+            "last_commit": "2026-10-11T06:28:14Z",
             "open_issues": 10,
             "owner": "littletuna4",
             "repo": "reqlan",
-            "stars": 4,
+            "stars": 5,
             "topics": []
           },
           "first_seen": "2026-08-30T12:17:52.967Z"
@@ -911,11 +911,11 @@
             "id": 285115432,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-05T12:44:56Z",
-            "open_issues": 79,
+            "last_commit": "2026-10-11T11:26:01Z",
+            "open_issues": 73,
             "owner": "lycheeverse",
             "repo": "lychee",
-            "stars": 3998,
+            "stars": 3999,
             "topics": [
               "broken-links",
               "check",
@@ -1014,8 +1014,8 @@
             "id": 591734910,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-02T00:59:54Z",
-            "open_issues": 122,
+            "last_commit": "2026-10-11T13:10:35Z",
+            "open_issues": 126,
             "owner": "doc-detective",
             "repo": "doc-detective",
             "stars": 136,
@@ -1226,7 +1226,7 @@
             "open_issues": 11,
             "owner": "alyssaxuu",
             "repo": "screenity",
-            "stars": 18770,
+            "stars": 18772,
             "topics": [
               "annotation",
               "annotation-tool",
@@ -1306,7 +1306,7 @@
             "open_issues": 5,
             "owner": "phw",
             "repo": "peek",
-            "stars": 10551,
+            "stars": 10549,
             "topics": [
               "apng",
               "gif",
@@ -1338,7 +1338,7 @@
             "open_issues": 80,
             "owner": "mifi",
             "repo": "editly",
-            "stars": 5522,
+            "stars": 5524,
             "topics": [
               "animations",
               "cli",
@@ -1375,11 +1375,11 @@
             "id": 90902132,
             "language": "C++",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-09T21:13:13Z",
-            "open_issues": 744,
+            "last_commit": "2026-10-10T13:16:34Z",
+            "open_issues": 743,
             "owner": "flameshot-org",
             "repo": "flameshot",
-            "stars": 31144,
+            "stars": 31150,
             "topics": [
               "capture",
               "cross-platform",
@@ -1410,7 +1410,7 @@
             "open_issues": 60,
             "owner": "simonw",
             "repo": "shot-scraper",
-            "stars": 2590,
+            "stars": 2591,
             "topics": [
               "playwright",
               "playwright-python",
@@ -1515,10 +1515,10 @@
             "language": "Rust",
             "license": "MPL-2.0",
             "last_commit": "2026-10-05T13:30:32Z",
-            "open_issues": 656,
+            "open_issues": 657,
             "owner": "rust-lang",
             "repo": "mdBook",
-            "stars": 22207,
+            "stars": 22212,
             "topics": []
           },
           "first_seen": "2026-08-28T19:01:38.463Z"
@@ -1539,7 +1539,7 @@
             "open_issues": 327,
             "owner": "shuding",
             "repo": "nextra",
-            "stars": 13935,
+            "stars": 13933,
             "topics": [
               "markdown",
               "mdx",
@@ -1564,10 +1564,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-10-04T20:13:44Z",
-            "open_issues": 86,
+            "open_issues": 87,
             "owner": "jackyzha0",
             "repo": "quartz",
-            "stars": 13364,
+            "stars": 13366,
             "topics": [
               "digital-garden",
               "networked-thought",
@@ -1595,7 +1595,7 @@
             "open_issues": 57,
             "owner": "thomvaill",
             "repo": "log4brains",
-            "stars": 1600,
+            "stars": 1602,
             "topics": [
               "adr",
               "architecture",
@@ -1846,7 +1846,7 @@
                 "open_issues": 412,
                 "owner": "intel",
                 "repo": "dffml",
-                "stars": 258,
+                "stars": 259,
                 "topics": [
                   "ai-inference",
                   "ai-machine-learning",
@@ -1884,8 +1884,8 @@
                 "id": 157119836,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-10T12:23:34Z",
-                "open_issues": 4,
+                "last_commit": "2026-10-11T08:05:37Z",
+                "open_issues": 0,
                 "owner": "adamtheturtle",
                 "repo": "sphinx-substitution-extensions",
                 "stars": 41,
@@ -1939,7 +1939,7 @@
                 "open_issues": 49,
                 "owner": "pradyunsg",
                 "repo": "furo",
-                "stars": 3616,
+                "stars": 3617,
                 "topics": [
                   "clean",
                   "customizable",
@@ -1979,10 +1979,10 @@
             "language": "TypeScript",
             "license": "CC-BY-4.0",
             "last_commit": "2026-10-09T14:41:30Z",
-            "open_issues": 52,
+            "open_issues": 56,
             "owner": "github",
             "repo": "docs",
-            "stars": 20986,
+            "stars": 20993,
             "topics": [
               "docs",
               "works-with-codespaces"
@@ -2081,10 +2081,10 @@
             "language": "TypeScript",
             "license": "Apache-2.0",
             "last_commit": "2026-10-10T04:39:12Z",
-            "open_issues": 180,
+            "open_issues": 191,
             "owner": "microsoft",
             "repo": "playwright",
-            "stars": 97415,
+            "stars": 97470,
             "topics": [
               "automation",
               "chrome",
@@ -2121,7 +2121,7 @@
             "open_issues": 220,
             "owner": "goabstract",
             "repo": "Awesome-Design-Tools",
-            "stars": 41450,
+            "stars": 41459,
             "topics": [
               "animations",
               "awesome",
@@ -2151,7 +2151,7 @@
             "open_issues": 9,
             "owner": "nilbuild",
             "repo": "driver.js",
-            "stars": 26896,
+            "stars": 26898,
             "topics": [
               "feature-introductions",
               "overlay",
@@ -2208,7 +2208,7 @@
             "open_issues": 70,
             "owner": "npryce",
             "repo": "adr-tools",
-            "stars": 5728,
+            "stars": 5730,
             "topics": [
               "architecture",
               "architecture-decision-records",
@@ -2325,7 +2325,7 @@
             "open_issues": 7,
             "owner": "alexandrascript",
             "repo": "tech-writing-tools",
-            "stars": 239,
+            "stars": 240,
             "topics": [
               "a11y",
               "accessibility",
@@ -2530,10 +2530,10 @@
             "language": "Go",
             "license": "MIT",
             "last_commit": "2026-10-05T11:11:20Z",
-            "open_issues": 244,
+            "open_issues": 245,
             "owner": "charmbracelet",
             "repo": "glow",
-            "stars": 27647,
+            "stars": 27654,
             "topics": [
               "cli",
               "excitement",
@@ -2569,7 +2569,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T13:05:49.661Z",
+    "last_updated": "2026-10-11T13:34:30.716Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome documentation tools",
