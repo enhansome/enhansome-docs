@@ -72,11 +72,11 @@
             "id": 203587744,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-12T04:41:25Z",
+            "last_commit": "2026-10-19T05:20:32Z",
             "open_issues": 858,
             "owner": "hoppscotch",
             "repo": "hoppscotch",
-            "stars": 80642,
+            "stars": 80654,
             "topics": [
               "api",
               "api-client",
@@ -116,7 +116,7 @@
             "open_issues": 0,
             "owner": "cortex-docs",
             "repo": "cortex",
-            "stars": 3262,
+            "stars": 3260,
             "topics": [
               "api-client",
               "api-documentation",
@@ -183,8 +183,8 @@
             "id": 207588519,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-17T14:51:08Z",
-            "open_issues": 178,
+            "last_commit": "2026-10-19T13:57:47Z",
+            "open_issues": 174,
             "owner": "Redocly",
             "repo": "redocly-cli",
             "stars": 1534,
@@ -318,11 +318,11 @@
             "id": 90796663,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-18T02:06:19Z",
+            "last_commit": "2026-10-19T12:49:26Z",
             "open_issues": 264,
             "owner": "puppeteer",
             "repo": "puppeteer",
-            "stars": 95715,
+            "stars": 95725,
             "topics": [
               "automation",
               "chrome",
@@ -397,11 +397,11 @@
             "id": 110446844,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-18T11:44:56Z",
-            "open_issues": 300,
+            "last_commit": "2026-10-19T11:56:13Z",
+            "open_issues": 294,
             "owner": "marktext",
             "repo": "marktext",
-            "stars": 62781,
+            "stars": 62850,
             "topics": [
               "editor",
               "electron",
@@ -435,7 +435,7 @@
             "open_issues": 901,
             "owner": "lapce",
             "repo": "lapce",
-            "stars": 38925,
+            "stars": 38934,
             "topics": [
               "code-editor",
               "developer-tools",
@@ -468,7 +468,7 @@
             "open_issues": 179,
             "owner": "papercups-io",
             "repo": "papercups",
-            "stars": 6115,
+            "stars": 6116,
             "topics": [
               "chat-widget",
               "customer-support",
@@ -577,7 +577,7 @@
             "open_issues": 6,
             "owner": "alstr",
             "repo": "todo-to-issue-action",
-            "stars": 801,
+            "stars": 800,
             "topics": []
           },
           "first_seen": "2026-08-28T19:01:38.463Z"
@@ -689,7 +689,7 @@
             "id": 1336023830,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-16T08:32:18Z",
+            "last_commit": "2026-10-19T08:35:36Z",
             "open_issues": 0,
             "owner": "loki-inu",
             "repo": "relnote",
@@ -830,6 +830,43 @@
       "items": [
         {
           "node_type": "item",
+          "title": "Oxynote",
+          "description": "Self-hosted team wiki with live Prometheus and SQL charts inside pages and pull-request-style reviews.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "An open‑source technical wiki connected to the systems it describes",
+            "homepage": null,
+            "id": 1321878383,
+            "language": "Go",
+            "license": "Apache-2.0",
+            "last_commit": "2026-10-18T10:15:18Z",
+            "open_issues": 69,
+            "owner": "oxynote",
+            "repo": "oxynote",
+            "stars": 226,
+            "topics": [
+              "api-documentation",
+              "confluence-alternative",
+              "dashboard",
+              "hacktoberfest",
+              "incident-response",
+              "internal-documentation",
+              "knowledge-base",
+              "metrics",
+              "notion-alternative",
+              "observability",
+              "prometheus",
+              "real-time-collaboration",
+              "runbooks",
+              "self-hosted",
+              "wiki"
+            ]
+          },
+          "first_seen": "2026-10-19T14:03:03.438Z"
+        },
+        {
+          "node_type": "item",
           "title": "wiki",
           "description": "Indexed Markdown knowledge bases for agents, with deterministic indexes, scoped retrieval, linting, and merge handling for parallel edits.",
           "children": [],
@@ -848,6 +885,42 @@
             "topics": []
           },
           "first_seen": "2026-08-28T19:01:38.463Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Folio Wiki",
+          "description": "Open-source, self-hosted team wiki that stores every page as a Markdown file in a Git repository, with a built-in MCP server.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "The AI-assisted, open-source alternative to Notion and Confluence: a team wiki that lives in Git, with real-time editing, data tables, whiteboards, offline mode, and first-class AI agents. Live demo: https://demo.foliowiki.online",
+            "homepage": "https://foliowiki.online",
+            "id": 1396397208,
+            "language": "TypeScript",
+            "license": "MIT",
+            "last_commit": "2026-10-18T10:43:10Z",
+            "open_issues": 0,
+            "owner": "evergreen-it-dev",
+            "repo": "folio",
+            "stars": 73,
+            "topics": [
+              "collaboration",
+              "docs-as-code",
+              "documentation",
+              "documentation-tool",
+              "excalidraw",
+              "git",
+              "gitbook-alternative",
+              "knowledge-base",
+              "markdown",
+              "mcp",
+              "self-hosted",
+              "technical-writing",
+              "wiki",
+              "yjs"
+            ]
+          },
+          "first_seen": "2026-10-19T14:03:03.438Z"
         },
         {
           "node_type": "item",
@@ -914,11 +987,11 @@
             "id": 285115432,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-13T16:24:33Z",
+            "last_commit": "2026-10-19T12:45:29Z",
             "open_issues": 79,
             "owner": "lycheeverse",
             "repo": "lychee",
-            "stars": 4018,
+            "stars": 4024,
             "topics": [
               "broken-links",
               "check",
@@ -1004,6 +1077,48 @@
             ]
           },
           "first_seen": "2026-08-28T19:01:38.463Z"
+        },
+        {
+          "node_type": "item",
+          "title": "seiso",
+          "description": "Markdown convention and linter for project docs written by AI and read by humans and agents. Checks document kinds, local links, facts restated across pages, values that go stale such as versions, and conversation remnants left in the page.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A Markdown convention and linter for project docs written by AI and read by humans and agents",
+            "homepage": "https://seiso.fog.moe",
+            "id": 1390878120,
+            "language": "Rust",
+            "license": "MIT",
+            "last_commit": "2026-10-13T08:12:43Z",
+            "open_issues": 18,
+            "owner": "scarletkc",
+            "repo": "seiso",
+            "stars": 185,
+            "topics": [
+              "ai",
+              "ai-agents",
+              "claude-code",
+              "cli",
+              "coding-agents",
+              "commonmark",
+              "conventions",
+              "developer-tools",
+              "docs-as-code",
+              "documentation",
+              "documentation-tool",
+              "gfm",
+              "lint",
+              "linter",
+              "llm",
+              "markdown",
+              "markdown-linter",
+              "rust",
+              "static-analysis",
+              "technical-writing"
+            ]
+          },
+          "first_seen": "2026-10-19T14:03:03.438Z"
         },
         {
           "node_type": "item",
@@ -1191,7 +1306,7 @@
             "open_issues": 260,
             "owner": "wulkano",
             "repo": "Kap",
-            "stars": 19401,
+            "stars": 19402,
             "topics": [
               "aperture",
               "app",
@@ -1229,7 +1344,7 @@
             "open_issues": 12,
             "owner": "alyssaxuu",
             "repo": "screenity",
-            "stars": 18784,
+            "stars": 18789,
             "topics": [
               "annotation",
               "annotation-tool",
@@ -1267,7 +1382,7 @@
             "open_issues": 107,
             "owner": "faressoft",
             "repo": "terminalizer",
-            "stars": 16169,
+            "stars": 16170,
             "topics": [
               "animated",
               "bash",
@@ -1309,7 +1424,7 @@
             "open_issues": 5,
             "owner": "phw",
             "repo": "peek",
-            "stars": 10544,
+            "stars": 10546,
             "topics": [
               "apng",
               "gif",
@@ -1341,7 +1456,7 @@
             "open_issues": 80,
             "owner": "mifi",
             "repo": "editly",
-            "stars": 5526,
+            "stars": 5529,
             "topics": [
               "animations",
               "cli",
@@ -1379,10 +1494,10 @@
             "language": "C++",
             "license": "GPL-3.0",
             "last_commit": "2026-10-16T21:46:57Z",
-            "open_issues": 743,
+            "open_issues": 744,
             "owner": "flameshot-org",
             "repo": "flameshot",
-            "stars": 31232,
+            "stars": 31240,
             "topics": [
               "capture",
               "cross-platform",
@@ -1473,7 +1588,7 @@
             "open_issues": 11,
             "owner": "joshlin2201",
             "repo": "itspaint",
-            "stars": 54,
+            "stars": 59,
             "topics": [
               "appkit",
               "drawing",
@@ -1518,10 +1633,10 @@
             "language": "Rust",
             "license": "MPL-2.0",
             "last_commit": "2026-10-12T08:47:26Z",
-            "open_issues": 657,
+            "open_issues": 659,
             "owner": "rust-lang",
             "repo": "mdBook",
-            "stars": 22227,
+            "stars": 22230,
             "topics": []
           },
           "first_seen": "2026-08-28T19:01:38.463Z"
@@ -1567,10 +1682,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-10-04T20:13:44Z",
-            "open_issues": 89,
+            "open_issues": 88,
             "owner": "jackyzha0",
             "repo": "quartz",
-            "stars": 13411,
+            "stars": 13420,
             "topics": [
               "digital-garden",
               "networked-thought",
@@ -1887,7 +2002,7 @@
                 "id": 157119836,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-14T17:43:37Z",
+                "last_commit": "2026-10-19T12:52:34Z",
                 "open_issues": 0,
                 "owner": "adamtheturtle",
                 "repo": "sphinx-substitution-extensions",
@@ -1982,10 +2097,10 @@
             "language": "TypeScript",
             "license": "CC-BY-4.0",
             "last_commit": "2026-10-16T20:34:10Z",
-            "open_issues": 57,
+            "open_issues": 59,
             "owner": "github",
             "repo": "docs",
-            "stars": 21048,
+            "stars": 21059,
             "topics": [
               "docs",
               "works-with-codespaces"
@@ -2083,11 +2198,11 @@
             "id": 221981891,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-17T07:40:24Z",
-            "open_issues": 202,
+            "last_commit": "2026-10-19T09:20:30Z",
+            "open_issues": 211,
             "owner": "microsoft",
             "repo": "playwright",
-            "stars": 97975,
+            "stars": 98069,
             "topics": [
               "automation",
               "chrome",
@@ -2121,10 +2236,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2024-07-28T19:57:31Z",
-            "open_issues": 225,
+            "open_issues": 226,
             "owner": "goabstract",
             "repo": "Awesome-Design-Tools",
-            "stars": 41522,
+            "stars": 41540,
             "topics": [
               "animations",
               "awesome",
@@ -2150,11 +2265,11 @@
             "id": 124792826,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-15T13:52:54Z",
-            "open_issues": 10,
+            "last_commit": "2026-10-18T17:41:58Z",
+            "open_issues": 1,
             "owner": "nilbuild",
             "repo": "driver.js",
-            "stars": 26923,
+            "stars": 26930,
             "topics": [
               "feature-introductions",
               "overlay",
@@ -2186,7 +2301,7 @@
             "open_issues": 32,
             "owner": "shipshapecode",
             "repo": "shepherd",
-            "stars": 13822,
+            "stars": 13824,
             "topics": [
               "hacktoberfest",
               "shepherd",
@@ -2211,7 +2326,7 @@
             "open_issues": 70,
             "owner": "npryce",
             "repo": "adr-tools",
-            "stars": 5733,
+            "stars": 5734,
             "topics": [
               "architecture",
               "architecture-decision-records",
@@ -2237,7 +2352,7 @@
             "open_issues": 54,
             "owner": "AlmanacCode",
             "repo": "codealmanac",
-            "stars": 998,
+            "stars": 997,
             "topics": [
               "ai",
               "claude",
@@ -2270,7 +2385,7 @@
             "open_issues": 307,
             "owner": "docToolchain",
             "repo": "docToolchain",
-            "stars": 869,
+            "stars": 870,
             "topics": [
               "arc42",
               "asciidoc",
@@ -2533,10 +2648,10 @@
             "language": "Go",
             "license": "MIT",
             "last_commit": "2026-10-05T11:11:20Z",
-            "open_issues": 254,
+            "open_issues": 255,
             "owner": "charmbracelet",
             "repo": "glow",
-            "stars": 27725,
+            "stars": 27739,
             "topics": [
               "cli",
               "excitement",
@@ -2566,13 +2681,54 @@
             "topics": []
           },
           "first_seen": "2026-08-28T19:01:38.463Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Glim",
+          "description": "Mac Markdown viewer with Mermaid diagrams, LaTeX formulas and basic source editing.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A free, open-source file viewer for macOS. Markdown, PDFs, images, JSON, CSV and code in one workspace. Apple Silicon & Intel.",
+            "homepage": "https://github.com/NeoPanic/Glim#download",
+            "id": 1411361734,
+            "language": "Rust",
+            "license": "MIT",
+            "last_commit": "2026-10-19T10:22:25Z",
+            "open_issues": 21,
+            "owner": "NeoPanic",
+            "repo": "Glim",
+            "stars": 18,
+            "topics": [
+              "csv-viewer",
+              "desktop-app",
+              "developer-tools",
+              "epub-reader",
+              "file-viewer",
+              "git-diff",
+              "gpui",
+              "gpui-kit",
+              "image-viewer",
+              "json-viewer",
+              "macos",
+              "markdown",
+              "markdown-viewer",
+              "mermaid",
+              "open-source",
+              "pdf-viewer",
+              "rust",
+              "safetensors",
+              "sqlite-viewer"
+            ]
+          },
+          "first_seen": "2026-10-19T14:03:03.438Z"
         }
       ],
       "title": "Viewer"
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T11:46:27.386Z",
+    "last_updated": "2026-10-19T14:03:03.438Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome documentation tools",
@@ -2580,8 +2736,8 @@
       "id": 191968647,
       "language": null,
       "license": "NOASSERTION",
-      "last_commit": "2026-09-25T06:56:29Z",
-      "open_issues": 20,
+      "last_commit": "2026-10-19T08:12:51Z",
+      "open_issues": 8,
       "owner": "testthedocs",
       "repo": "awesome-docs",
       "stars": 902,
@@ -2591,7 +2747,7 @@
         "docs"
       ]
     },
-    "original_repository_sha": "f395ebf6891dc72f2771edc962d7e85cf6516f21",
+    "original_repository_sha": "0dd9c2a5fc54d0e777a64102e5c539d3b3a91c63",
     "enhanced_repository": "enhansome/enhansome-docs",
     "enhanced_repository_description": null,
     "title": "Awesome Docs with stars"
