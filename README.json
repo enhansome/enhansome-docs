@@ -19,7 +19,7 @@
             "open_issues": 11,
             "owner": "dequelabs",
             "repo": "axe-cli",
-            "stars": 439,
+            "stars": 440,
             "topics": [
               "axe-cli"
             ]
@@ -73,10 +73,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-11-05T08:16:25Z",
-            "open_issues": 898,
+            "open_issues": 901,
             "owner": "hoppscotch",
             "repo": "hoppscotch",
-            "stars": 80802,
+            "stars": 80819,
             "topics": [
               "api",
               "api-client",
@@ -116,7 +116,7 @@
             "open_issues": 3,
             "owner": "cortex-docs",
             "repo": "cortex",
-            "stars": 3293,
+            "stars": 3294,
             "topics": [
               "api-client",
               "api-documentation",
@@ -183,11 +183,11 @@
             "id": 207588519,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-13T17:47:58Z",
-            "open_issues": 182,
+            "last_commit": "2026-11-14T14:14:50Z",
+            "open_issues": 183,
             "owner": "Redocly",
             "repo": "redocly-cli",
-            "stars": 1559,
+            "stars": 1560,
             "topics": [
               "api-governance",
               "arazzo",
@@ -318,11 +318,11 @@
             "id": 90796663,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-13T14:46:13Z",
-            "open_issues": 207,
+            "last_commit": "2026-11-15T03:04:23Z",
+            "open_issues": 212,
             "owner": "puppeteer",
             "repo": "puppeteer",
-            "stars": 95837,
+            "stars": 95841,
             "topics": [
               "automation",
               "chrome",
@@ -349,8 +349,8 @@
             "id": 1232322871,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-14T12:45:39Z",
-            "open_issues": 6,
+            "last_commit": "2026-11-14T18:19:57Z",
+            "open_issues": 7,
             "owner": "vostride",
             "repo": "agent-qa",
             "stars": 857,
@@ -398,10 +398,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-11-14T02:27:32Z",
-            "open_issues": 248,
+            "open_issues": 249,
             "owner": "marktext",
             "repo": "marktext",
-            "stars": 63974,
+            "stars": 63995,
             "topics": [
               "editor",
               "electron",
@@ -435,7 +435,7 @@
             "open_issues": 914,
             "owner": "lapce",
             "repo": "lapce",
-            "stars": 39010,
+            "stars": 39058,
             "topics": [
               "code-editor",
               "developer-tools",
@@ -468,7 +468,7 @@
             "open_issues": 177,
             "owner": "papercups-io",
             "repo": "papercups",
-            "stars": 6122,
+            "stars": 6123,
             "topics": [
               "chat-widget",
               "customer-support",
@@ -551,7 +551,7 @@
             "open_issues": 32,
             "owner": "treosh",
             "repo": "lighthouse-ci-action",
-            "stars": 1293,
+            "stars": 1294,
             "topics": [
               "github-actions",
               "lighthouse",
@@ -679,6 +679,36 @@
         },
         {
           "node_type": "item",
+          "title": "readme-ci",
+          "description": "ondraulehla/readme-ci",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Run the code blocks in your README and fail CI when your quickstart breaks",
+            "homepage": "https://www.npmjs.com/package/readme-ci",
+            "id": 1301226107,
+            "language": "TypeScript",
+            "license": "MIT",
+            "last_commit": "2026-07-29T17:46:32Z",
+            "open_issues": 0,
+            "owner": "ondraulehla",
+            "repo": "readme-ci",
+            "stars": 1,
+            "topics": [
+              "ci",
+              "documentation",
+              "e2b",
+              "github-actions",
+              "markdown",
+              "quickstart",
+              "readme",
+              "testing"
+            ]
+          },
+          "first_seen": "2026-08-28T19:01:38.463Z"
+        },
+        {
+          "node_type": "item",
           "title": "relnote",
           "description": "Generate GitHub-flavored release notes from a git range (stdlib Python CLI + Action; conventional-commit grouping).",
           "children": [],
@@ -791,36 +821,6 @@
             ]
           },
           "first_seen": "2026-08-28T19:01:38.463Z"
-        },
-        {
-          "node_type": "item",
-          "title": "readme-ci",
-          "description": "ondraulehla/readme-ci",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Run the code blocks in your README and fail CI when your quickstart breaks",
-            "homepage": "https://www.npmjs.com/package/readme-ci",
-            "id": 1301226107,
-            "language": "TypeScript",
-            "license": "MIT",
-            "last_commit": "2026-07-29T17:46:32Z",
-            "open_issues": 0,
-            "owner": "ondraulehla",
-            "repo": "readme-ci",
-            "stars": 0,
-            "topics": [
-              "ci",
-              "documentation",
-              "e2b",
-              "github-actions",
-              "markdown",
-              "quickstart",
-              "readme",
-              "testing"
-            ]
-          },
-          "first_seen": "2026-08-28T19:01:38.463Z"
         }
       ],
       "title": "GitHub Actions"
@@ -840,11 +840,11 @@
             "id": 1321878383,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-14T12:09:10Z",
-            "open_issues": 76,
+            "last_commit": "2026-11-15T11:47:54Z",
+            "open_issues": 81,
             "owner": "oxynote",
             "repo": "oxynote",
-            "stars": 595,
+            "stars": 607,
             "topics": [
               "confluence-alternative",
               "dashboard",
@@ -991,7 +991,7 @@
             "open_issues": 77,
             "owner": "lycheeverse",
             "repo": "lychee",
-            "stars": 4129,
+            "stars": 4131,
             "topics": [
               "broken-links",
               "check",
@@ -1132,8 +1132,8 @@
             "id": 591734910,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-14T03:10:35Z",
-            "open_issues": 106,
+            "last_commit": "2026-11-15T07:16:31Z",
+            "open_issues": 116,
             "owner": "doc-detective",
             "repo": "doc-detective",
             "stars": 139,
@@ -1336,7 +1336,7 @@
             "open_issues": 260,
             "owner": "wulkano",
             "repo": "Kap",
-            "stars": 19427,
+            "stars": 19428,
             "topics": [
               "aperture",
               "app",
@@ -1371,7 +1371,7 @@
             "language": "JavaScript",
             "license": "GPL-3.0",
             "last_commit": "2026-11-08T09:54:41Z",
-            "open_issues": 8,
+            "open_issues": 9,
             "owner": "alyssaxuu",
             "repo": "screenity",
             "stars": 18990,
@@ -1412,7 +1412,7 @@
             "open_issues": 107,
             "owner": "faressoft",
             "repo": "terminalizer",
-            "stars": 16172,
+            "stars": 16171,
             "topics": [
               "animated",
               "bash",
@@ -1454,7 +1454,7 @@
             "open_issues": 5,
             "owner": "phw",
             "repo": "peek",
-            "stars": 10543,
+            "stars": 10541,
             "topics": [
               "apng",
               "gif",
@@ -1486,7 +1486,7 @@
             "open_issues": 80,
             "owner": "mifi",
             "repo": "editly",
-            "stars": 5612,
+            "stars": 5613,
             "topics": [
               "animations",
               "cli",
@@ -1523,11 +1523,11 @@
             "id": 90902132,
             "language": "C++",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-13T22:18:54Z",
-            "open_issues": 751,
+            "last_commit": "2026-11-14T15:02:58Z",
+            "open_issues": 750,
             "owner": "flameshot-org",
             "repo": "flameshot",
-            "stars": 31546,
+            "stars": 31551,
             "topics": [
               "capture",
               "cross-platform",
@@ -1555,10 +1555,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-10-14T03:21:49Z",
-            "open_issues": 62,
+            "open_issues": 63,
             "owner": "simonw",
             "repo": "shot-scraper",
-            "stars": 2605,
+            "stars": 2608,
             "topics": [
               "playwright",
               "playwright-python",
@@ -1585,7 +1585,7 @@
             "open_issues": 4,
             "owner": "omachala",
             "repo": "heroshot",
-            "stars": 75,
+            "stars": 78,
             "topics": [
               "automation",
               "cli",
@@ -1618,7 +1618,7 @@
             "open_issues": 12,
             "owner": "joshlin2201",
             "repo": "itspaint",
-            "stars": 74,
+            "stars": 75,
             "topics": [
               "appkit",
               "drawing",
@@ -1662,11 +1662,11 @@
             "id": 38655056,
             "language": "Rust",
             "license": "MPL-2.0",
-            "last_commit": "2026-11-13T19:31:08Z",
-            "open_issues": 645,
+            "last_commit": "2026-11-14T16:55:33Z",
+            "open_issues": 633,
             "owner": "rust-lang",
             "repo": "mdBook",
-            "stars": 22291,
+            "stars": 22297,
             "topics": []
           },
           "first_seen": "2026-08-28T19:01:38.463Z"
@@ -1687,7 +1687,7 @@
             "open_issues": 321,
             "owner": "shuding",
             "repo": "nextra",
-            "stars": 13954,
+            "stars": 13957,
             "topics": [
               "markdown",
               "mdx",
@@ -1715,7 +1715,7 @@
             "open_issues": 70,
             "owner": "jackyzha0",
             "repo": "quartz",
-            "stars": 13586,
+            "stars": 13591,
             "topics": [
               "digital-garden",
               "networked-thought",
@@ -1743,7 +1743,7 @@
             "open_issues": 57,
             "owner": "thomvaill",
             "repo": "log4brains",
-            "stars": 1612,
+            "stars": 1613,
             "topics": [
               "adr",
               "architecture",
@@ -1926,8 +1926,8 @@
             "id": 1285590792,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-14T13:45:51Z",
-            "open_issues": 62,
+            "last_commit": "2026-11-15T14:19:49Z",
+            "open_issues": 54,
             "owner": "lord007tn",
             "repo": "nibleaf",
             "stars": 9,
@@ -2127,10 +2127,10 @@
             "language": "TypeScript",
             "license": "CC-BY-4.0",
             "last_commit": "2026-11-13T23:26:07Z",
-            "open_issues": 58,
+            "open_issues": 59,
             "owner": "github",
             "repo": "docs",
-            "stars": 21446,
+            "stars": 21458,
             "topics": [
               "docs",
               "works-with-codespaces"
@@ -2229,10 +2229,10 @@
             "language": "TypeScript",
             "license": "Apache-2.0",
             "last_commit": "2026-11-14T12:00:14Z",
-            "open_issues": 35,
+            "open_issues": 44,
             "owner": "microsoft",
             "repo": "playwright",
-            "stars": 100154,
+            "stars": 100229,
             "topics": [
               "automation",
               "chrome",
@@ -2266,10 +2266,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2024-07-28T19:57:31Z",
-            "open_issues": 250,
+            "open_issues": 252,
             "owner": "goabstract",
             "repo": "Awesome-Design-Tools",
-            "stars": 41889,
+            "stars": 41902,
             "topics": [
               "animations",
               "awesome",
@@ -2295,11 +2295,11 @@
             "id": 124792826,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-13T14:00:21Z",
-            "open_issues": 2,
+            "last_commit": "2026-11-14T15:25:19Z",
+            "open_issues": 1,
             "owner": "nilbuild",
             "repo": "driver.js",
-            "stars": 27061,
+            "stars": 27063,
             "topics": [
               "feature-introductions",
               "overlay",
@@ -2331,7 +2331,7 @@
             "open_issues": 17,
             "owner": "shipshapecode",
             "repo": "shepherd",
-            "stars": 13831,
+            "stars": 13833,
             "topics": [
               "accessibility",
               "guided-tour",
@@ -2366,7 +2366,7 @@
             "open_issues": 70,
             "owner": "npryce",
             "repo": "adr-tools",
-            "stars": 5776,
+            "stars": 5777,
             "topics": [
               "architecture",
               "architecture-decision-records",
@@ -2691,7 +2691,7 @@
             "open_issues": 268,
             "owner": "charmbracelet",
             "repo": "glow",
-            "stars": 28035,
+            "stars": 28040,
             "topics": [
               "cli",
               "excitement",
@@ -2713,11 +2713,11 @@
             "id": 1411361734,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-11-13T21:59:11Z",
+            "last_commit": "2026-11-14T20:44:22Z",
             "open_issues": 24,
             "owner": "glimapp",
             "repo": "glim",
-            "stars": 44,
+            "stars": 45,
             "topics": [
               "csv-viewer",
               "desktop-app",
@@ -2768,7 +2768,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T13:49:34.965Z",
+    "last_updated": "2026-11-15T14:20:53.193Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome documentation tools",
