@@ -63,10 +63,10 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 
 ## API
 
-* [Hoppscotch](https://github.com/hoppscotch/hoppscotch) ⭐ 80,867 | 🐛 919 | 🌐 TypeScript | 📅 2026-11-20
+* [Hoppscotch](https://github.com/hoppscotch/hoppscotch) ⭐ 80,915 | 🐛 919 | 🌐 TypeScript | 📅 2026-11-23
 * [Cortex](https://github.com/cortex-docs/cortex) ⭐ 3,285 | 🐛 3 | 🌐 TypeScript | 📅 2026-10-06 - Generates interactive or static API documentation, typed SDKs, and MCP servers from several API specification formats.
 * [widdershins](https://github.com/Mermade/widdershins) ⭐ 1,580 | 🐛 89 | 🌐 JavaScript | 📅 2024-06-04
-* [OpenAPI 3 CLI](https://github.com/Redocly/openapi-cli) ⭐ 1,563 | 🐛 192 | 🌐 TypeScript | 📅 2026-11-21
+* [OpenAPI 3 CLI](https://github.com/Redocly/openapi-cli) ⭐ 1,563 | 🐛 191 | 🌐 TypeScript | 📅 2026-11-23
 * [Speccy](https://github.com/wework/speccy) ⭐ 836 | 🐛 83 | 🌐 JavaScript | 📅 2022-12-30
 * [swaggerui](https://github.com/flowchartsman/swaggerui) ⭐ 91 | 🐛 6 | 🌐 Go | 📅 2024-04-19
 * [Redoc-Editor](https://github.com/pointnet/redoc-editor) ⭐ 14 | 🐛 24 | 🌐 JavaScript | 📅 2023-01-04
@@ -99,16 +99,16 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 
 ## Browser Testing
 
-* [Puppeteer](https://github.com/GoogleChrome/puppeteer) ⭐ 95,887 | 🐛 212 | 🌐 TypeScript | 📅 2026-11-22
-* [Agent QA](https://github.com/vostride/agent-qa) ⭐ 820 | 🐛 6 | 🌐 TypeScript | 📅 2026-11-22 - Source-available natural-language browser testing with reusable execution memory, UI recovery, and run artifacts.
+* [Puppeteer](https://github.com/GoogleChrome/puppeteer) ⭐ 95,895 | 🐛 204 | 🌐 TypeScript | 📅 2026-11-23
+* [Agent QA](https://github.com/vostride/agent-qa) ⭐ 822 | 🐛 6 | 🌐 TypeScript | 📅 2026-11-23 - Source-available natural-language browser testing with reusable execution memory, UI recovery, and run artifacts.
 * [Nightwatch.js](https://nightwatchjs.org/)
 * [Playwright](https://playwright.dev/)
 * [Selenium](https://www.seleniumhq.org/)
 
 ## Editor
 
-* [Mark Text](https://github.com/marktext/marktext) ⭐ 64,268 | 🐛 274 | 🌐 TypeScript | 📅 2026-11-17
-* [Lapce](https://github.com/lapce/lapce) ⭐ 39,099 | 🐛 906 | 🌐 Rust | 📅 2026-11-18
+* [Mark Text](https://github.com/marktext/marktext) ⭐ 64,300 | 🐛 275 | 🌐 TypeScript | 📅 2026-11-23
+* [Lapce](https://github.com/lapce/lapce) ⭐ 39,106 | 🐛 903 | 🌐 Rust | 📅 2026-11-18
 * [DraftView Edit](https://www.draftview.app/edit) - Paste a GitHub or GitLab file URL to edit it in DraftView and submit it back as a pull request or merge request.
 * [HackMD](https://hackmd.io/)
 * [Markdown Pro](https://plugins.jetbrains.com/plugin/33400-markdown-pro) - Paid plugin for JetBrains IDEs that extends the bundled Markdown editor with MDX previews, table editing and documentation checks.
@@ -122,13 +122,13 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 
 ## Feedback
 
-* [Papercups](https://github.com/papercups-io/papercups) ⭐ 6,121 | 🐛 176 | 🌐 Elixir | 📅 2024-02-15
+* [Papercups](https://github.com/papercups-io/papercups) ⭐ 6,120 | 🐛 176 | 🌐 Elixir | 📅 2024-02-15
 * [notabene](https://github.com/z29k/notabene) ⭐ 5 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-12 - Renders a repo's Markdown/MDX as a navigable site with anchored, Google-Docs-style comments; an agent applies them as source edits and journals the changes.
 
 ## GitHub Actions
 
 * [Lighthouse CI Action](https://github.com/treosh/lighthouse-ci-action) ⭐ 1,293 | 🐛 32 | 🌐 JavaScript | 📅 2026-03-12
-* [TODO to Issue Action](https://github.com/alstr/todo-to-issue-action) ⭐ 801 | 🐛 7 | 🌐 Python | 📅 2026-07-06
+* [TODO to Issue Action](https://github.com/alstr/todo-to-issue-action) ⭐ 801 | 🐛 6 | 🌐 Python | 📅 2026-07-06
 * [Vale](https://github.com/errata-ai/vale-action) ⭐ 259 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-21
 * [TOC Generator](https://github.com/technote-space/toc-generator) ⭐ 248 | 🐛 7 | 🌐 TypeScript | 📅 2023-05-09
 * [Alex Action](https://github.com/theashraf/alex-action) ⭐ 14 | 🐛 1 | 🌐 Dockerfile | 📅 2019-11-03
@@ -159,7 +159,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 
 ## Knowledge Base
 
-* [Oxynote](https://github.com/oxynote/oxynote) ⭐ 679 | 🐛 103 | 🌐 Go | 📅 2026-11-22 - Self-hosted team wiki with live Prometheus and SQL charts inside pages and pull-request-style reviews.
+* [Oxynote](https://github.com/oxynote/oxynote) ⭐ 688 | 🐛 105 | 🌐 Go | 📅 2026-11-23 - Self-hosted team wiki with live Prometheus and SQL charts inside pages and pull-request-style reviews.
 * [wiki](https://github.com/plasma-ai/wiki) ⭐ 108 | 🐛 0 | 🌐 Python | 📅 2026-11-05 - Indexed Markdown knowledge bases for agents, with deterministic indexes, scoped retrieval, linting, and merge handling for parallel edits.
 * [Folio Wiki](https://github.com/evergreen-it-dev/folio) ⭐ 92 | 🐛 4 | 🌐 TypeScript | 📅 2026-11-19 - Open-source, self-hosted team wiki that stores every page as a Markdown file in a Git repository, with a built-in MCP server.
 * [reqlan](https://github.com/littletuna4/reqlan) ⭐ 10 | 🐛 10 | 🌐 TypeScript | 📅 2026-11-19 - Semantic requirements as code: a graph of named ideas your agents can search, link, reuse, test and maintain.
@@ -180,12 +180,12 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 ## Quality Assurance
 
 * [Alex](https://github.com/get-alex/alex) ⭐ 5,110 | 🐛 28 | 🌐 JavaScript | 📅 2024-11-27
-* [lychee](https://github.com/lycheeverse/lychee) ⭐ 4,153 | 🐛 84 | 🌐 Rust | 📅 2026-11-16
-* [case-police](https://github.com/antfu/case-police) ⭐ 1,423 | 🐛 9 | 🌐 TypeScript | 📅 2026-04-15
-* [brok](https://github.com/smallhadroncollider/brok) ⭐ 421 | 🐛 12 | 🌐 Haskell | 📅 2023-03-06
+* [lychee](https://github.com/lycheeverse/lychee) ⭐ 4,155 | 🐛 83 | 🌐 Rust | 📅 2026-11-23
+* [case-police](https://github.com/antfu/case-police) ⭐ 1,423 | 🐛 8 | 🌐 TypeScript | 📅 2026-04-15
+* [brok](https://github.com/smallhadroncollider/brok) ⭐ 420 | 🐛 12 | 🌐 Haskell | 📅 2023-03-06
 * [HtmlTest](https://github.com/wjdp/htmltest) ⭐ 379 | 🐛 81 | 🌐 HTML | 📅 2025-01-20
 * [seiso](https://github.com/scarletkc/seiso) ⭐ 196 | 🐛 18 | 🌐 Rust | 📅 2026-10-13 - Markdown convention and linter for project docs written by AI and read by humans and agents. Checks document kinds, local links, facts restated across pages, values that go stale such as versions, and conversation remnants left in the page.
-* [Doc Detective](https://github.com/doc-detective/doc-detective) ⭐ 140 | 🐛 123 | 🌐 TypeScript | 📅 2026-11-21
+* [Doc Detective](https://github.com/doc-detective/doc-detective) ⭐ 140 | 🐛 122 | 🌐 TypeScript | 📅 2026-11-22
 * [Linkspector](https://github.com/UmbrellaDocs/linkspector) ⭐ 93 | 🐛 15 | 🌐 JavaScript | 📅 2026-10-21
 * [InnovationEngine](https://github.com/Azure/InnovationEngine) ⭐ 40 | 🐛 50 | 🌐 Go | 📅 2026-08-31
 * [Rules example](https://github.com/cisco-open/inclusive-language/blob/main/cisco-rules.yaml) ⭐ 24 | 🐛 4 | 🌐 Python | 📅 2025-04-28
@@ -241,18 +241,18 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 
 ## Screencast
 
-* [Kap](https://github.com/wulkano/kap) ⭐ 19,432 | 🐛 261 | 🌐 TypeScript | 📅 2024-11-12 (macOS)
-* [Screenity](https://github.com/alyssaxuu/screenity) ⭐ 19,006 | 🐛 8 | 🌐 JavaScript | 📅 2026-11-20
-* [Terminalizer](https://github.com/faressoft/terminalizer) ⭐ 16,170 | 🐛 107 | 🌐 JavaScript | 📅 2024-08-29
+* [Kap](https://github.com/wulkano/kap) ⭐ 19,433 | 🐛 261 | 🌐 TypeScript | 📅 2024-11-12 (macOS)
+* [Screenity](https://github.com/alyssaxuu/screenity) ⭐ 19,007 | 🐛 8 | 🌐 JavaScript | 📅 2026-11-23
+* [Terminalizer](https://github.com/faressoft/terminalizer) ⭐ 16,168 | 🐛 107 | 🌐 JavaScript | 📅 2024-08-29
 * [Peek](https://github.com/phw/peek) ⚠️ Archived
-* [Editly](https://github.com/mifi/editly) ⭐ 5,643 | 🐛 81 | 🌐 TypeScript | 📅 2025-05-12
+* [Editly](https://github.com/mifi/editly) ⭐ 5,647 | 🐛 81 | 🌐 TypeScript | 📅 2025-05-12
 * [Asciinema](https://asciinema.org/)
 * [Codio](https://present.readthedocs.io/en/latest/codio.html)
 * [Shotnix](https://shotnix.com/) (macOS)
 
 ## Screenshot
 
-* [Flameshot](https://github.com/lupoDharkael/flameshot) ⭐ 31,664 | 🐛 751 | 🌐 C++ | 📅 2026-11-18
+* [Flameshot](https://github.com/lupoDharkael/flameshot) ⭐ 31,697 | 🐛 750 | 🌐 C++ | 📅 2026-11-23
 * [shot-scraper](https://github.com/simonw/shot-scraper) ⭐ 2,610 | 🐛 63 | 🌐 Python | 📅 2026-10-14
 * [Heroshot](https://github.com/omachala/heroshot) ⭐ 78 | 🐛 4 | 🌐 TypeScript | 📅 2026-06-28
 * [ItsPaint](https://github.com/joshlin2201/itspaint) ⭐ 75 | 🐛 12 | 🌐 Swift | 📅 2026-11-11 (macOS)
@@ -264,17 +264,17 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 
 ## Site Generators
 
-* [mdBook](https://github.com/rust-lang/mdBook) ⭐ 22,320 | 🐛 631 | 🌐 Rust | 📅 2026-11-17
+* [mdBook](https://github.com/rust-lang/mdBook) ⭐ 22,323 | 🐛 635 | 🌐 Rust | 📅 2026-11-22
 * [Nextra](https://github.com/shuding/nextra) ⭐ 13,956 | 🐛 321 | 🌐 TypeScript | 📅 2026-07-31
-* [Quartz](https://github.com/jackyzha0/quartz) ⭐ 13,618 | 🐛 60 | 🌐 TypeScript | 📅 2026-11-22
+* [Quartz](https://github.com/jackyzha0/quartz) ⭐ 13,621 | 🐛 33 | 🌐 TypeScript | 📅 2026-11-23
 * [Log4brains](https://github.com/thomvaill/log4brains) ⭐ 1,613 | 🐛 57 | 🌐 TypeScript | 📅 2024-12-17
-* [VuePress](https://github.com/wevm/vocs/) ⭐ 1,568 | 🐛 23 | 🌐 TypeScript | 📅 2026-11-18
+* [VuePress](https://github.com/wevm/vocs/) ⭐ 1,569 | 🐛 24 | 🌐 TypeScript | 📅 2026-11-23
 * [Portray](https://github.com/timothycrosley/portray) ⭐ 861 | 🐛 32 | 🌐 Python | 📅 2023-09-19
 * [RcPress](https://github.com/YvesCoding/rcpress) ⭐ 192 | 🐛 15 | 🌐 JavaScript | 📅 2023-01-22
-* [Docsite](https://github.com/sourcegraph/docsite) ⭐ 71 | 🐛 14 | 🌐 Go | 📅 2026-11-11
+* [Docsite](https://github.com/sourcegraph/docsite) ⭐ 71 | 🐛 13 | 🌐 Go | 📅 2026-11-11
 * [Bengal](https://github.com/lbliii/bengal) ⭐ 50 | 🐛 76 | 🌐 Python | 📅 2026-08-17
-* [Nibleaf](https://github.com/lord007tn/nibleaf) ⭐ 9 | 🐛 25 | 🌐 TypeScript | 📅 2026-11-22 - Open-source platform for editing, publishing, searching, and self-hosting multilingual Markdown and MDX documentation.
-* [Thally](https://github.com/thallylabs/thally) ⭐ 7 | 🐛 34 | 🌐 TypeScript | 📅 2026-11-14 - MIT-licensed docs engine (Next.js, MDX) that publishes each page as HTML, Markdown and JSON, with llms.txt and an MCP endpoint.
+* [Nibleaf](https://github.com/lord007tn/nibleaf) ⭐ 9 | 🐛 28 | 🌐 TypeScript | 📅 2026-11-23 - Open-source platform for editing, publishing, searching, and self-hosting multilingual Markdown and MDX documentation.
+* [Thally](https://github.com/thallylabs/thally) ⭐ 7 | 🐛 34 | 🌐 TypeScript | 📅 2026-11-23 - MIT-licensed docs engine (Next.js, MDX) that publishes each page as HTML, Markdown and JSON, with llms.txt and an MCP endpoint.
 * [11ty](https://www.11ty.dev/)
 * [Antora](https://antora.org/)
 * [adoc Studio](https://www.adoc-studio.app)
@@ -323,7 +323,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 ### Sphinx Extensions
 
 * [consoletest](https://github.com/intel/dffml/blob/master/dffml/util/testing/consoletest/README.md) ⚠️ Archived
-* [Sphinx Substitution Extensions](https://github.com/adamtheturtle/sphinx-substitution-extensions) ⭐ 41 | 🐛 0 | 🌐 Python | 📅 2026-11-21
+* [Sphinx Substitution Extensions](https://github.com/adamtheturtle/sphinx-substitution-extensions) ⭐ 41 | 🐛 0 | 🌐 Python | 📅 2026-11-23
 * [Contentui](https://github.com/ulrobix/sphinxcontrib-contentui) ⭐ 13 | 🐛 10 | 🌐 Python | 📅 2023-02-07
 * [MyST](https://myst-parser.readthedocs.io/en/latest/using/intro.html)
 * [sphinx-design](https://sphinx-design.readthedocs.io/en/latest/)
@@ -340,7 +340,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 
 ## Style Guides
 
-* [GitHub](https://github.com/github/docs/blob/main/contributing/content-style-guide.md#content-style-guide-for-github-docs-) ⭐ 21,542 | 🐛 55 | 🌐 TypeScript | 📅 2026-11-20
+* [GitHub](https://github.com/github/docs/blob/main/contributing/content-style-guide.md#content-style-guide-for-github-docs-) ⭐ 21,552 | 🐛 52 | 🌐 TypeScript | 📅 2026-11-23
 * [Aiven](https://github.com/aiven/devportal/blob/main/CONTRIBUTING.rst#style-guide) ⚠️ Archived
 * [Developer Style Guide](https://github.com/lornajane/developer-style-guide) ⭐ 19 | 🐛 0 | 📅 2023-12-30
 * [Rackspace](https://github.com/rackerlabs/docs-style-guide/tree/master/style-guide) ⚠️ Archived
@@ -381,12 +381,12 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 
 ## Tool Collection
 
-* [Playwright](https://github.com/microsoft/playwright) ⭐ 100,794 | 🐛 67 | 🌐 TypeScript | 📅 2026-11-21
-* [Awesome Design Tools](https://github.com/goabstract/Awesome-Design-Tools) ⭐ 41,993 | 🐛 259 | 🌐 JavaScript | 📅 2024-07-28
-* [Driver.js](https://github.com/kamranahmedse/driver.js) ⭐ 27,218 | 🐛 1 | 🌐 TypeScript | 📅 2026-11-14
-* [Shepherd](https://github.com/shipshapecode/shepherd) ⭐ 13,838 | 🐛 19 | 🌐 JavaScript | 📅 2026-11-20
+* [Playwright](https://github.com/microsoft/playwright) ⭐ 100,906 | 🐛 71 | 🌐 TypeScript | 📅 2026-11-23
+* [Awesome Design Tools](https://github.com/goabstract/Awesome-Design-Tools) ⭐ 42,004 | 🐛 259 | 🌐 JavaScript | 📅 2024-07-28
+* [Driver.js](https://github.com/kamranahmedse/driver.js) ⭐ 27,257 | 🐛 1 | 🌐 TypeScript | 📅 2026-11-14
+* [Shepherd](https://github.com/shipshapecode/shepherd) ⭐ 13,842 | 🐛 23 | 🌐 JavaScript | 📅 2026-11-23
 * [adr-tools](https://github.com/npryce/adr-tools) ⭐ 5,785 | 🐛 70 | 🌐 Shell | 📅 2024-04-25
-* [CodeAlmanac](https://github.com/AlmanacCode/codealmanac) ⭐ 949 | 🐛 54 | 🌐 TypeScript | 📅 2026-11-16 - Self-updating repository wiki for AI coding agents that tracks project conversations and context locally in the repo.
+* [CodeAlmanac](https://github.com/AlmanacCode/codealmanac) ⭐ 950 | 🐛 54 | 🌐 TypeScript | 📅 2026-11-16 - Self-updating repository wiki for AI coding agents that tracks project conversations and context locally in the repo.
 * [docToolchain](https://github.com/doctoolchain/doctoolchain) ⭐ 878 | 🐛 311 | 🌐 Groovy | 📅 2026-10-29
 * [rstcheck](https://github.com/myint/rstcheck) ⭐ 259 | 🐛 7 | 🌐 Python | 📅 2026-11-16
 * [Tools for Technical Writers](https://github.com/heyawhite/tech-writing-tools) ⭐ 240 | 🐛 7 | 📅 2025-02-26
@@ -395,7 +395,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 * [fixred](https://github.com/rhysd/fixred) ⭐ 36 | 🐛 1 | 🌐 Rust | 📅 2022-06-07
 * [gatsby-theme-adr](https://github.com/Lullabot/gatsby-theme-adr) ⭐ 16 | 🐛 13 | 🌐 TypeScript | 📅 2024-04-11
 * [PitchDocs](https://github.com/littlebearapps/pitchdocs) ⭐ 8 | 🐛 8 | 🌐 Shell | 📅 2026-05-08 - AI-powered documentation generator that scans codebases and produces marketing-ready READMEs, changelogs, and AI context files with quality scoring.
-* [HumanPen MCP](https://github.com/humanpen/humanpen-mcp) ⭐ 4 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-22 - MCP server for document translation and rewriting; credit-based service with a one-time 100-credit sign-up grant.
+* [HumanPen MCP](https://github.com/humanpen/humanpen-mcp) ⭐ 4 | 🐛 1 | 🌐 TypeScript | 📅 2026-11-22 - MCP server for document translation and rewriting; credit-based service with a one-time 100-credit sign-up grant.
 * [Browser SOP Builder](https://github.com/max-agent-hub/browser-sop-builder) ⭐ 0 | 🐛 1 | 🌐 HTML | 📅 2026-07-15 - Local-first browser tool for drafting controlled procedures and exporting Markdown without accounts or server storage.
 * [AutomaDocs](https://automadocs.com) - AI documentation platform for GitHub repos. Tree-sitter AST chunking, Claude generation, hybrid retrieval (BM25 + Pinecone vector). Webhook-driven selective regeneration on every push so docs stay in sync with code.
 * [Bluehawk](https://mongodb-university.github.io/Bluehawk/)
@@ -434,8 +434,8 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 
 ## Viewer
 
-* [Glow - Render Markdown on the CLI](https://github.com/charmbracelet/glow) ⭐ 28,135 | 🐛 270 | 🌐 Go | 📅 2026-11-04
-* [Glim](https://github.com/NeoPanic/Glim) ⭐ 47 | 🐛 20 | 🌐 Rust | 📅 2026-11-22 - Mac Markdown viewer with Mermaid diagrams, LaTeX formulas and basic source editing.
+* [Glow - Render Markdown on the CLI](https://github.com/charmbracelet/glow) ⭐ 28,153 | 🐛 271 | 🌐 Go | 📅 2026-11-04
+* [Glim](https://github.com/NeoPanic/Glim) ⭐ 48 | 🐛 20 | 🌐 Rust | 📅 2026-11-23 - Mac Markdown viewer with Mermaid diagrams, LaTeX formulas and basic source editing.
 * [mdv](https://github.com/xrfang/mdv/) ⭐ 20 | 🐛 5 | 🌐 JavaScript | 📅 2025-08-06
 * [Skim](https://github.com/skim-md/skim) ⭐ 16 | 🐛 9 | 🌐 JavaScript | 📅 2026-11-03 - Browser extension that renders local and online Markdown files with live reload, KaTeX math and Mermaid diagrams.
 * [MacMD Viewer](https://macmdviewer.com) - Native macOS Markdown viewer with Mermaid diagram support, QuickLook extension, and syntax highlighting for 190+ languages.
@@ -452,4 +452,4 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-23._
